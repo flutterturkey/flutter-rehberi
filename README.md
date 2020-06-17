@@ -14,6 +14,28 @@ Bu kaynağı oluşturmaktaki amaç, farklı kaynakları kategoriler altında top
 
 ## Türkçe Kaynak Başlıkları
 - [Makaleler](#turkce-makaleler)
+- [Videolar](#turkce-videolar)
 
 ## İngilizce Kaynak Başlıkları
 - [Makaleler](#ingilizce-makaleler)
+- [Videolar](#ingilizce-videolar)
+
+## Ortak Kaynaklar
+- [Kütüphaneler](#kutuphaneler)
+
+
+### Türkçe Makaleler
+Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde burada bulunabilir.
+
+#### Flutter'a Giriş
+#### Widgetlar
+#### State Management
+
+### Türkçe Videolar
+
+#### Flutter'a Giriş
+#### Widgetlar
+#### State Management
+
+### Kütüphaneler
+
