@@ -16,10 +16,6 @@ Bu kaynağı oluşturmaktaki amaç, farklı kaynakları kategoriler altında top
 - [Makaleler](#turkce-makaleler)
 - [Videolar](#turkce-videolar)
 
-## İngilizce Kaynak Başlıkları
-- [Makaleler](#ingilizce-makaleler)
-- [Videolar](#ingilizce-videolar)
-
 ## Ortak Kaynaklar
 - [Kütüphaneler](#kutuphaneler)
 
@@ -47,29 +43,10 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter HEALTHO UI](https://medium.com/flutter-t%C3%BCrkiye/flutter-healtho-ui-ad72c823e8b2) - Veli Bacık
 - [Container, Column, Row…](https://medium.com/flutter-t%C3%BCrkiye/container-column-row-89b31f988605?source=collection_detail----f3fe55e37b59-----24-----------------------) - Zeki Çıplak
 
-#### Database
-- [Flutter’da hive kullanımı, crud işlemleri](https://medium.com/flutter-t%C3%BCrkiye/flutterda-hive-kullan%C4%B1m%C4%B1-crud-i%C5%9Flemleri-1db319cf50a2) - Kadir Bekar
-- [Flutter’da Floor Kullanımı — Sql Kütüphanesi](https://medium.com/flutter-t%C3%BCrkiye/flutterda-floor-kullan%C4%B1m%C4%B1-sql-k%C3%BCt%C3%BCphanesi-3e09e6a3c916) - Mert Toptaş
-
-#### Mimari
-- [Flutter: Clean Code](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-c52ff8759c0e) - Muhammet Ömer
-
-#### Tema
-- [Flutter’da Dinamik Tema](https://medium.com/flutter-t%C3%BCrkiye/flutterda-dinamik-tema-d3fc8e2ecbe1) - Ali Anıl Koçak
-
-#### Platform Channels
-- [Flutter Channel ile iOS ve Android Kodu Çağırmak + Native SocketIO Client Framework İle Kullanımı](https://medium.com/flutter-t%C3%BCrkiye/flutter-channel-ile-ios-ve-android-kodu-%C3%A7a%C4%9F%C4%B1rmak-native-socketio-client-framework-i%CC%87le-kullan%C4%B1m%C4%B1-e9c1d6a1e408) - Gökhan Alp
-
 #### Network Bağlantıları
 - [Flutter’da Json Parçalama Ve Manipüle Etme: Kripto Para Uygulaması](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc) - Ozan Doğan
 - [Flutter’da API’lar ile Çalışmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-api-lar-ile-%C3%A7al%C4%B1%C5%9Fmak-e28361c7890d) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
 - [Flutter’da JSON Parçalama](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-c35d7f7e39be) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
-
-#### Navigasyon
-- [Flutter’da Sayfalar Arası Geçişler](https://medium.com/flutter-t%C3%BCrkiye/flutterda-sayfalar-aras%C4%B1-ge%C3%A7i%C5%9Fler-8b8cdbf317cb?source=collection_detail----f3fe55e37b59-----20-----------------------) - Zeki Çıplak
-
-#### Animasyonlar
-- [Flutterda Animasyonlar](https://medium.com/flutter-t%C3%BCrkiye/flutter-da-animasyonlar-ebf4b7f000bc) - Beyza Sunay Güler'in Muhammed Salih Güler'in makalesinden çevirisi
 
 #### Firebase
 - [Flutter’da Algolia Kullanarak Arama Yapmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-algolia-kullanarak-arama-yapmak-fb36b05f3cc1) - Mert Toptaş
@@ -79,6 +56,25 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter, Login Bilgisi Tutma](https://medium.com/flutter-t%C3%BCrkiye/flutter-login-bilgisi-tutma-375bb1fa45f5) - Kadir Bekar
 - [Flutter’da WebView’ların Gücü](https://medium.com/flutter-t%C3%BCrkiye/flutterda-webview-lar%C4%B1n-g%C3%BCc%C3%BC-62a0304987e1) - Beyza Sunay Güler'in Emily Fortuna'nın makalesinden çevirisi
 - [Flutter Paketi Nasıl Oluştururum ve Yayınlarım](https://medium.com/flutter-t%C3%BCrkiye/nas%C4%B1l-flutter-package-olu%C5%9Fturulur-ve-yay%C4%B1nlar%C4%B1m-d3d0501565f2?source=collection_detail----f3fe55e37b59-----25-----------------------) - Onat Çipli
+
+#### Database
+- [Flutter’da hive kullanımı, crud işlemleri](https://medium.com/flutter-t%C3%BCrkiye/flutterda-hive-kullan%C4%B1m%C4%B1-crud-i%C5%9Flemleri-1db319cf50a2) - Kadir Bekar
+- [Flutter’da Floor Kullanımı — Sql Kütüphanesi](https://medium.com/flutter-t%C3%BCrkiye/flutterda-floor-kullan%C4%B1m%C4%B1-sql-k%C3%BCt%C3%BCphanesi-3e09e6a3c916) - Mert Toptaş
+
+#### Navigasyon
+- [Flutter’da Sayfalar Arası Geçişler](https://medium.com/flutter-t%C3%BCrkiye/flutterda-sayfalar-aras%C4%B1-ge%C3%A7i%C5%9Fler-8b8cdbf317cb?source=collection_detail----f3fe55e37b59-----20-----------------------) - Zeki Çıplak
+
+#### Animasyonlar
+- [Flutterda Animasyonlar](https://medium.com/flutter-t%C3%BCrkiye/flutter-da-animasyonlar-ebf4b7f000bc) - Beyza Sunay Güler'in Muhammed Salih Güler'in makalesinden çevirisi
+
+#### Mimari
+- [Flutter: Clean Code](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-c52ff8759c0e) - Muhammet Ömer
+
+#### Tema
+- [Flutter’da Dinamik Tema](https://medium.com/flutter-t%C3%BCrkiye/flutterda-dinamik-tema-d3fc8e2ecbe1) - Ali Anıl Koçak
+
+#### Platform Channels
+- [Flutter Channel ile iOS ve Android Kodu Çağırmak + Native SocketIO Client Framework İle Kullanımı](https://medium.com/flutter-t%C3%BCrkiye/flutter-channel-ile-ios-ve-android-kodu-%C3%A7a%C4%9F%C4%B1rmak-native-socketio-client-framework-i%CC%87le-kullan%C4%B1m%C4%B1-e9c1d6a1e408) - Gökhan Alp
 
 #### Web
 - [Flutter Web’in In ve Outları](https://medium.com/flutter-t%C3%BCrkiye/flutter-webin-in-ve-outlar%C4%B1-b2f4531fc8fe) - Beyza Sunay Güler'in Nash Ramdial'ın makalesinden çevirisi
@@ -92,9 +88,19 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 ### <a name="turkce-videolar"></a>Türkçe Videolar 🇹🇷 🎥
 
-#### Flutter'a Giriş
-#### Widgetlar
-#### State Management
+#### Dart
+- [Dart'a Giris - 4 - Siniflar (Classes) ve Mixin'ler](https://www.youtube.com/watch?v=r47SmlFzMD4) - Muhammed Salih Güler.
+- [Dart'a Giris - 3 - Fonksiyonlar, if/else ve switch-case, Döngüler](https://www.youtube.com/watch?v=YFbYJstBHT8) - Muhammed Salih Güler.
+- [Dart'a Giris - 2 - var, final, const ve Dart Veri Tipler](https://www.youtube.com/watch?v=Nf857FM309w) - Muhammed Salih Güler.
+- [Dart'a Giris - 1 - Dart Nedir? Dart Temel Prensipleri ve Dartpad Kullanimi](https://www.youtube.com/watch?v=iiPNI8Cs-0k) - Muhammed Salih Güler.
+
+#### Flutter'ı devam eden uygulamaya eklemek
+- [Flutter'i devam eden projenize nasil ekleyebilirsiniz? Muhammed Salih Guler - Devfest Ankara](https://www.youtube.com/watch?v=01OnLugvrMc) - Muhammed Salih Güler.
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
+En çok kullanılan ve [Flutter Favourite](https://flutter.dev/docs/development/packages-and-plugins/favorites) ekibi tarafından onaylanmış kütüphaneleri ve kısaca ne yaptıklarını burada görebilirsiniz.
+
+
+
+[https://pub.dev/packages/path_provider](path_provider)
