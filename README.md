@@ -99,8 +99,41 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
-En çok kullanılan ve [Flutter Favourite](https://flutter.dev/docs/development/packages-and-plugins/favorites) ekibi tarafından onaylanmış kütüphaneleri ve kısaca ne yaptıklarını burada görebilirsiniz.
+#### Flutter Favourites
+[Flutter Favourite](https://flutter.dev/docs/development/packages-and-plugins/favorites) ekibi, Flutter ekibi tarafından seçilmiş ve onaylanmış, kütüphaneleri gözden geçiren ve onaylayan bir topluluk. Seçtiği Kütüphaneler aşağıdaki gibi:
 
+##### State Management
+- [provider](https://pub.dev/packages/provider) - Flutter için [InheritedWidget](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html) etrafına sarılmış, uygulaması kolay State Management ve Dependency Injection kütüphanesi.
+- [mobx](https://pub.dev/packages/mobx) - MobX state management sistemini kurmanıza yardımcı olan, sadece Dart ile yazılmış hem AngularDart hem de Flutter ile çalışan kütüphane.
+- [flutter_mobx](https://pub.dev/packages/flutter_mobx) - MobX state management sistemini kurmanıza yardımcı olan pek çok widget sağlayan kütüphane.
+- [bloc](https://pub.dev/packages/bloc) - [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) state management sistemini kurmanıza yardımcı olan sadece Dart ile yazılmış hem AngularDart hem de Flutter ile çalışan kütüphane.
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc) - Flutter'da [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) state management sistemini kurmanıza yardımcı olan [bloc](https://pub.dev/packages/bloc) kütüphanesini kullanmamıza yardımcı olacak widget'ları sağlayan kütüphane.
 
+##### UI 
+- [google_fonts](https://pub.dev/packages/google_fonts) - Flutter'da Google Font üzerindeki kütüphaneleri kullanmamıza yardımcı olan kütüphane.
+- [flutter_slidable](https://pub.dev/packages/flutter_slidable) - Flutter'da liste elemanlarına, kaydırarak ekstra işlemler eklemenize yardımcı kütüphane.
+- [convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar) - Flutter'da custom bottom davranışta olan bottom bar oluşturmanıza yardımcı kütüphane.
 
-[path_provider](https://pub.dev/packages/path_provider)
+##### Veri kaydetme
+- [shared_preferences](https://pub.dev/packages/shared_preferences) - Android ve iOS işletim sistemlerinde anahtar-değer şeklinde veri tutmamıza yardımcı olan kütüphane.
+- [sqflite](https://pub.dev/packages/sqflite) - Flutter için SQLite kütüphanesi.
+
+##### Cihaza özgü işlemler
+- [path_provider](https://pub.dev/packages/path_provider) - Android ve iOS dosya sistemlerinde en çok kullanılan dosya lokasyonlarına ulaşmamızı sağlayan bir kütüphane.
+- [url_launcher](https://pub.dev/packages/url_launcher) - Android ve iOS işletim sistemlerinde tarayıcı açmak, telefon arama uygulamasını açmak, SMS yollama uygulamasını açmak ve email uygulamasını açmaya yarayan kütüphane.
+- [connectivity](https://pub.dev/packages/connectivity) - Android ve iOS üzerinde çalışan, mobil ve WiFi kaynaklı internete bağlanma durumunu kontrol edip, bu bilgiyi bize getiren kütüphane.
+- [geolocator](https://pub.dev/packages/geolocator) - Android ve iOS üzerinde çalışan, cihaza özgü lokasyon işlemleri yapmanıza yardımcı olan kütüphane.
+- [location](https://pub.dev/packages/location) - Android ve iOS üzerinde çalışan, canlı lokasyon bilgisi ve değişiklikleri işlemlerine yardımcı olan kütüphane.
+- [share](https://pub.dev/packages/share) - Android ve iOS üzerinde çalışan, paylaşma menüleri için basit bir kullanım sağlayan kütüphane.
+- [device_info](https://pub.dev/packages/device_info) - Android ve iOS üzerinde çalışan, cihazla ilgili bilgi veren kütüphane.
+- [sensors](https://pub.dev/packages/sensors) - Android ve iOS üzerinde çalışan, accelerometer ve gyroscope sensorlerini kullanmanıza yardımcı olan kütüphane.
+- [battery](https://pub.dev/packages/battery) - Android ve iOS üzerinde çalışan, cihazın bataryası hakkında bilgi almanıza yardımcı olan kütüphane.
+- [android_intent](https://pub.dev/packages/android_intent) - Android üzerinde çalışan intentler oluşturmanıza yardımcı olan kütüphane.
+- [android_alarm_manager](https://pub.dev/packages/android_alarm_manager) - Android üzerinde çalışan, her bir alarm operasyonu oluştuğunda Dart kodu üzerinde dinlemenize yardımcı olan kütüphane.
+- [package_info](https://pub.dev/packages/package_info) - Uygulama hakkında bize bilgi sağlayan kütüphane.
+
+##### Kodlamaya Yardımcı Kütüphaneler
+
+- [rxdart](https://pub.dev/packages/rxdart) - Dart dili ile Rx konseptlerini bir araya getiren kütüphane.
+- [json_serializable](https://pub.dev/packages/json_serializable) - Objeleri JSON değerlerine, JSON değerlerini objelere çevirmeye yardımcı olacak metodları vs. oluşturan ve bu operasyonlara yardımcı kütüphane
+
