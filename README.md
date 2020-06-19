@@ -160,5 +160,5 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - 🐦 [Flutter İzmir](https://twitter.com/FlutterIzmir)
 
 ## TODO
-[] Roadmap eklenecek
-[] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
+- [ ] Roadmap eklenecek
+- [ ] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
