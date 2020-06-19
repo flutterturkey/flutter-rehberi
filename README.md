@@ -163,4 +163,5 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 ## TODO
 - [ ] Roadmap eklenecek
+- [ ] İngilizce kaynak eklenecek
 - [ ] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
