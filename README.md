@@ -18,6 +18,7 @@ Bu kaynağı oluşturmaktaki amaç, farklı kaynakları kategoriler altında top
 
 ## Ortak Kaynaklar
 - [Kütüphaneler](#kutuphaneler)
+- [Sosyal Ağlar](#sosyal-aglar)
 
 
 ### <a name="turkce-makaleler"></a>Türkçe Makaleler 🇹🇷 📝
@@ -25,6 +26,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 #### Dart
 - [Dart Const Eğitici İçerik— Bilmeniz Gereken Her şey(Const İfadeler, Standart Örnekler ve Daha Fazlası)](https://medium.com/flutter-t%C3%BCrkiye/dart-const-e%C4%9Fitici-i%CC%87%C3%A7erik-bilmeniz-gereken-her-%C5%9Fey-const-i%CC%87fadeler-standart-%C3%B6rnekler-ve-daha-fe243f590059) - Beyza Sunay Güler'in Matt Rešetár (Reso Coder)'ın makalesinden çevirisi
+- [Dart dilinde Uzantı Metotları(Extension Methods)](https://medium.com/flutter-i%CC%87zmir/dart-dilinde-uzant%C4%B1-metotlar%C4%B1-extension-methods-912158f92fa1) - Mirkan Çalışkan
 
 #### Flutter'a Giriş
 - [Flutter ile Güzel Kullanıcı Arayüzü Oluşturmak](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-g%C3%BCzel-kullan%C4%B1c%C4%B1-aray%C3%BCz%C3%BC-olu%C5%9Fturmak-2b8a3c4c7b17) - Mustafa Türkmen'in Flutter codelab çevirisi
@@ -51,23 +53,31 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Firebase
 - [Flutter’da Algolia Kullanarak Arama Yapmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-algolia-kullanarak-arama-yapmak-fb36b05f3cc1) - Mert Toptaş
 - [Flutter Blog -Login](https://medium.com/flutter-t%C3%BCrkiye/flutter-blog-login-857f1d16d3aa) - Veli Bacık
+- [Flutter Projemize Firebase Kitini Nasıl Ekleriz? (part 1)](https://medium.com/flutter-i%CC%87zmir/flutter-projemize-firebase-kitini-nas%C4%B1l-ekleriz-part-1-b8859e9cadef) - Onat Çipli
+- [Firebase ile Kimlik Doğrulama, Giriş Yapma, Üyelik Alma (part 2)](https://medium.com/flutter-i%CC%87zmir/firebase-ile-kimlik-do%C4%9Frulama-giri%C5%9F-yapma-%C3%BCyelik-alma-part-2-912705fdbfad) - Onat Çipli
 
 #### Kütüphaneler
 - [Flutter, Login Bilgisi Tutma](https://medium.com/flutter-t%C3%BCrkiye/flutter-login-bilgisi-tutma-375bb1fa45f5) - Kadir Bekar
 - [Flutter’da WebView’ların Gücü](https://medium.com/flutter-t%C3%BCrkiye/flutterda-webview-lar%C4%B1n-g%C3%BCc%C3%BC-62a0304987e1) - Beyza Sunay Güler'in Emily Fortuna'nın makalesinden çevirisi
 - [Flutter Paketi Nasıl Oluştururum ve Yayınlarım](https://medium.com/flutter-t%C3%BCrkiye/nas%C4%B1l-flutter-package-olu%C5%9Fturulur-ve-yay%C4%B1nlar%C4%B1m-d3d0501565f2?source=collection_detail----f3fe55e37b59-----25-----------------------) - Onat Çipli
+- [Flutter’da SVG Kullanımı](https://medium.com/flutter-i%CC%87zmir/flutterda-svg-kullan%C4%B1m%C4%B1-468c8817d3c1) - Mirkan Çalışkan
+- [Flutter’da Pusher Kullanımı](https://medium.com/flutter-i%CC%87zmir/flutterda-pusher-kullan%C4%B1m%C4%B1-b216398fd63d) - Mirkan Çalışkan
 
 #### Database
 - [Flutter’da hive kullanımı, crud işlemleri](https://medium.com/flutter-t%C3%BCrkiye/flutterda-hive-kullan%C4%B1m%C4%B1-crud-i%C5%9Flemleri-1db319cf50a2) - Kadir Bekar
 - [Flutter’da Floor Kullanımı — Sql Kütüphanesi](https://medium.com/flutter-t%C3%BCrkiye/flutterda-floor-kullan%C4%B1m%C4%B1-sql-k%C3%BCt%C3%BCphanesi-3e09e6a3c916) - Mert Toptaş
 
 #### Navigasyon
+- [Flutter’da Temiz Routing](https://medium.com/flutter-i%CC%87zmir/flutterda-temiz-routing-736aaedea55c) - Mirkan Çalışkan
 - [Flutter’da Sayfalar Arası Geçişler](https://medium.com/flutter-t%C3%BCrkiye/flutterda-sayfalar-aras%C4%B1-ge%C3%A7i%C5%9Fler-8b8cdbf317cb?source=collection_detail----f3fe55e37b59-----20-----------------------) - Zeki Çıplak
 
 #### Animasyonlar
+- [Flutter’da Animasyonlar: Fizik Tabanlı Animasyonlar](https://medium.com/flutter-i%CC%87zmir/flutterda-animasyonlar-fizik-tabanl%C4%B1-animasyonlar-531d39221560) - Mirkan Çalışkan
+- [Flutter’da Animasyonlar: Implicit Animation Widgets](https://medium.com/flutter-i%CC%87zmir/flutterda-animasyonlar-implicit-animation-widgets-585e7f8ef442) - Mirkan Çalışkan
 - [Flutterda Animasyonlar](https://medium.com/flutter-t%C3%BCrkiye/flutter-da-animasyonlar-ebf4b7f000bc) - Beyza Sunay Güler'in Muhammed Salih Güler'in makalesinden çevirisi
 
 #### Mimari
+- [Flutter Uygulama Mimarisi: BLoC](https://medium.com/flutter-i%CC%87zmir/flutter-uygulama-mimarisi-bloc-c8ca9f43662) - Mirkan Çalışkan
 - [Flutter: Clean Code](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-c52ff8759c0e) - Muhammet Ömer
 
 #### Tema
@@ -104,10 +114,13 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 ##### State Management
 - [provider](https://pub.dev/packages/provider) - Flutter için [InheritedWidget](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html) etrafına sarılmış, uygulaması kolay State Management ve Dependency Injection kütüphanesi.
-- [mobx](https://pub.dev/packages/mobx) - MobX state management sistemini kurmanıza yardımcı olan, sadece Dart ile yazılmış hem AngularDart hem de Flutter ile çalışan kütüphane.
-- [flutter_mobx](https://pub.dev/packages/flutter_mobx) - MobX state management sistemini kurmanıza yardımcı olan pek çok widget sağlayan kütüphane.
 - [bloc](https://pub.dev/packages/bloc) - [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) state management sistemini kurmanıza yardımcı olan sadece Dart ile yazılmış hem AngularDart hem de Flutter ile çalışan kütüphane.
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc) - Flutter'da [BLoC](https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/) state management sistemini kurmanıza yardımcı olan [bloc](https://pub.dev/packages/bloc) kütüphanesini kullanmamıza yardımcı olacak widget'ları sağlayan kütüphane.
+- [mobx](https://pub.dev/packages/mobx) - MobX state management sistemini kurmanıza yardımcı olan, sadece Dart ile yazılmış hem AngularDart hem de Flutter ile çalışan kütüphane.
+- [mobx_codegen](https://pub.dev/packages/mobx_codegen) - MobX state management sistemini kurmanıza yardımcı olan sistemi kurarken yazdığınız boilerplate kod'u sizin için oluşturan kütüphane.
+- [flutter_mobx](https://pub.dev/packages/flutter_mobx) - MobX state management sistemini kurmanıza yardımcı olan pek çok widget sağlayan kütüphane.
+- [redux](https://pub.dev/packages/redux) - [redux](https://redux.js.org/) state management sistemini kurmanıza yardımcı olan, sadece Dart ile yazılmış hem AngularDart hem de Flutter ile çalışan kütüphane.
+- [flutter_redux](https://pub.dev/packages/flutter_redux) - [redux](https://redux.js.org/) state management sistemini kurmanıza yardımcı olan pek çok widget sağlayan kütüphane.
 
 ##### UI 
 - [google_fonts](https://pub.dev/packages/google_fonts) - Flutter'da Google Font üzerindeki kütüphaneleri kullanmamıza yardımcı olan kütüphane.
@@ -131,9 +144,21 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [android_intent](https://pub.dev/packages/android_intent) - Android üzerinde çalışan intentler oluşturmanıza yardımcı olan kütüphane.
 - [android_alarm_manager](https://pub.dev/packages/android_alarm_manager) - Android üzerinde çalışan, her bir alarm operasyonu oluştuğunda Dart kodu üzerinde dinlemenize yardımcı olan kütüphane.
 - [package_info](https://pub.dev/packages/package_info) - Uygulama hakkında bize bilgi sağlayan kütüphane.
+- [sign_in_with_apple](https://pub.dev/packages/sign_in_with_apple) - Android, iOS ve macOS üzerinde çalışan ve Flutter üzerinde 'Sign in with Apple' sistemi kurmanıza yardımcı olan kütüphane.
 
 ##### Kodlamaya Yardımcı Kütüphaneler
 
 - [rxdart](https://pub.dev/packages/rxdart) - Dart dili ile Rx konseptlerini bir araya getiren kütüphane.
 - [json_serializable](https://pub.dev/packages/json_serializable) - Objeleri JSON değerlerine, JSON değerlerini objelere çevirmeye yardımcı olacak metodları vs. oluşturan ve bu operasyonlara yardımcı kütüphane
+- [built_value](https://pub.dev/packages/built_value) - Immutable (değiştirilemez) objeler veya veri tipleri oluşturmanıza yardımcı kütüphane. 
+- [built_collection](https://pub.dev/packages/built_collection) - Immutable (değiştirilemez) objeler veya veri tipleri ile liste gibi koleksiyonları oluşturmanıza yardımcı olan kütüphane. 
+- [built_value_generator](https://pub.dev/packages/built_value_generator) - built_value için amatik kod oluşturmaya yardımcı olan kütüphane.
 
+
+###  <a name="sosyal-aglar"></a>Sosyal Ağlar
+- 🐦 [Flutter Türkiye](https://twitter.com/flutter_turkiye)
+- 🐦 [Flutter İzmir](https://twitter.com/FlutterIzmir)
+
+## TODO
+[] Roadmap eklenecek
+[] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
