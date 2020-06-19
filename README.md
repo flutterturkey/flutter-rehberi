@@ -46,7 +46,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter HEALTHO UI 2](https://medium.com/flutter-t%C3%BCrkiye/flutter-healtho-ui-2-96077afaea3e) - Veli Bacık
 - [Flutter HEALTHO UI](https://medium.com/flutter-t%C3%BCrkiye/flutter-healtho-ui-ad72c823e8b2) - Veli Bacık
 - [Container, Column, Row…](https://medium.com/flutter-t%C3%BCrkiye/container-column-row-89b31f988605?source=collection_detail----f3fe55e37b59-----24-----------------------) - Zeki Çıplak
-- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Sezgin Bilgetay
 
 #### Network Bağlantıları
 - [Flutter’da Json Parçalama Ve Manipüle Etme: Kripto Para Uygulaması](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc) - Ozan Doğan
@@ -111,6 +110,11 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter'i devam eden projenize nasil ekleyebilirsiniz? Muhammed Salih Guler - Devfest Ankara](https://www.youtube.com/watch?v=01OnLugvrMc) - Muhammed Salih Güler.
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
+
+#### Topluluktan Kütüphaneler
+
+##### UI 
+- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
 
 #### Flutter Favourites
 [Flutter Favourite](https://flutter.dev/docs/development/packages-and-plugins/favorites) ekibi, Flutter ekibi tarafından seçilmiş ve onaylanmış, kütüphaneleri gözden geçiren ve onaylayan bir topluluk. Seçtiği Kütüphaneler aşağıdaki gibi:
