@@ -12,6 +12,8 @@
 
 Bu kaynağı oluşturmaktaki amaç, farklı kaynakları kategoriler altında toplayarak, Flutter öğrenmek isteyenlere Türkçe ve İngilizce kaynaklar sağlarken, aynı zamanda Flutter ile ilgili belirli bir yol haritası sağlamaktır.
 
+Bu kaynak hazırlanırken [Awesome Flutter](https://github.com/Solido/awesome-flutter) reposu genel olarak örnek alındı. 
+
 ## Türkçe Kaynak Başlıkları
 - [Makaleler](#turkce-makaleler)
 - [Videolar](#turkce-videolar)
