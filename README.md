@@ -29,6 +29,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Dart
 - [Dart Const Eğitici İçerik— Bilmeniz Gereken Her şey(Const İfadeler, Standart Örnekler ve Daha Fazlası)](https://medium.com/flutter-t%C3%BCrkiye/dart-const-e%C4%9Fitici-i%CC%87%C3%A7erik-bilmeniz-gereken-her-%C5%9Fey-const-i%CC%87fadeler-standart-%C3%B6rnekler-ve-daha-fe243f590059) - Beyza Sunay Güler'in Matt Rešetár (Reso Coder)'ın makalesinden çevirisi
 - [Dart dilinde Uzantı Metotları(Extension Methods)](https://medium.com/flutter-i%CC%87zmir/dart-dilinde-uzant%C4%B1-metotlar%C4%B1-extension-methods-912158f92fa1) - Mirkan Çalışkan
+- [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - Halil Özel
 
 #### Flutter'a Giriş
 - [Flutter ile Güzel Kullanıcı Arayüzü Oluşturmak](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-g%C3%BCzel-kullan%C4%B1c%C4%B1-aray%C3%BCz%C3%BC-olu%C5%9Fturmak-2b8a3c4c7b17) - Mustafa Türkmen'in Flutter codelab çevirisi
@@ -36,6 +37,8 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter ile ilk uygulamanı yazmaya hazır mısın? (Part 2)](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-i%CC%87lk-uygulaman%C4%B1-yazmaya-haz%C4%B1r-m%C4%B1s%C4%B1n-part-2-ac97b0ee4baf) - Ajda Akter'in Flutter codelab çevirisi
 - [Flutter öğrenmek istiyorum, nereden başlamalıyım](https://medium.com/flutter-t%C3%BCrkiye/flutter-%C3%B6%C4%9Frenmek-i%CC%87stiyorum-nas%C4%B1l-ba%C5%9Flamal%C4%B1y%C4%B1m-650427b18cfe) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
 - [Flutter ile ilk uygulamanı yazmaya hazır mısın? (Part 1)](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-i%CC%87lk-uygulaman%C4%B1-yazmaya-haz%C4%B1r-m%C4%B1s%C4%B1n-part-1-f2833af78685) - Ajda Akter'in Flutter codelab çevirisi
+- [Flutter Nedir ?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - Halil Özel
+- [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde) - Halil Özel
 
 #### Widgetlar
 - [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
