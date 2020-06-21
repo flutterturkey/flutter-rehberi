@@ -150,7 +150,11 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter 101 | Gazihan Alankuş](https://youtu.be/U_qz78Lt0ss) - GDG&WTM Kayseri
 
 
+##### Devnot
+- [React Native vs. Flutter](https://youtu.be/uOiM_LEGnKI) - Veli Bacık & Zafer Ayan
 
+##### DSC Edirne
+- [Flutter vs React Native](https://youtu.be/BtxsOehgl_s) - Sercan Yusuf & Özge Aydın
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
