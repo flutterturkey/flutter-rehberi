@@ -112,6 +112,50 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Flutter'ı devam eden uygulamaya eklemek
 - [Flutter'i devam eden projenize nasil ekleyebilirsiniz? Muhammed Salih Guler - Devfest Ankara](https://www.youtube.com/watch?v=01OnLugvrMc) - Muhammed Salih Güler.
 
+#### Etkinlik Yayınları
+##### Flutter Türkiye
+- [Flutter Türkiye Online Meetup #1](https://youtu.be/UhmHNORQY4s) - Gazihan Alankuş & Muhammed Salih Güler
+
+##### Flutter İzmir
+- [Flutter İzmir Canlı Yayını #1](https://youtu.be/B46y2HgKzU0) - Gazihan Alankuş & Muhammed Salih Güler & Mirkan Çalışkan & Can Taşpınar & Onat Çipli & Emre Akça
+- [Flutter İzmir Canlı Yayını #2](https://youtu.be/sCssYdjB6pE) - Mirkan Çalışkan & Can Taşpınar & Emre Akça
+- [Flutter Study Jam İzmir 2019: Flutter'a Giriş ve Asenkron Programlama](https://youtu.be/2nv4kFoPg4w) - Gazihan Alankuş
+- [Flutter Study Jam İzmir 2019: Flutter'da Animasyonlar ve Custom Painting](https://youtu.be/8CI-Y8zRBFw) - Mirkan Çalışkan
+- [Flutter Study Jam İzmir 2019: Flutter'da State Yönetimi ve Provider](https://youtu.be/LZ_a8WSbmZA) - Can Taşpınar
+- [Flutter Study Jam İzmir 2019: Flutter Layout: Whatsapp Kulanıcı Arabirimi Klonu](https://youtu.be/pKMqwbnZndI) - Onat Çipli
+
+##### GDG Istanbul
+- [Flutter Live Meetup #1](https://youtu.be/EEMH42XY8Kg) - Nilay Yener & Sercan Yusuf & Erol Kaftanoğlu
+- [Dash on Fire #1](https://youtu.be/ja_qkQ1eUzA) - Sercan Yusuf & Erol Kaftanoğlu
+- [Dash on Fire #2](https://youtu.be/WeorjEfzUis) - Sercan Yusuf & Erol Kaftanoğlu
+- [Dash on Fire #3](https://youtu.be/W9GM01nz4Io) - Sercan Yusuf & Erol Kaftanoğlu
+- [Dash on Fire #4](https://youtu.be/ZUywKeNEtkA) - Sercan Yusuf & Erol Kaftanoğlu
+- [Dash on Fire #5](https://youtu.be/F1wRiltMXFA) - Sercan Yusuf & Erol Kaftanoğlu]
+- [Dash on Fire #6](https://youtu.be/whfZBiZNplw) - Sercan Yusuf & Erol Kaftanoğlul
+
+
+##### GDG Izmir
+- [Flutter 101 - GDG Izmir](https://youtu.be/xR9S0F7yFKY) - Gazihan Alankuş
+- [Flutter ile Çok Kullanıcılı Mobil Uygulama (Gazihan Alankuş - GBot) - GDG DevFest Izmir 2019](https://youtu.be/BXSHMq4PyaU) - Gazihan Alankuş
+- [WTM Izmir 2019 Flutter ve Firebase Workshop - Gazihan Alankuş](https://youtu.be/jUO5Ejftv1I) - Gazihan Alankuş
+
+##### MobilerDev
+- [Flutter'a Doğru #1 - Giriş](https://youtu.be/zVkNJQ55OI0) - Levent Kantaroğlu & Ümit Duran
+- [Flutter'a Doğru #2 - Dart](https://youtu.be/ICpudmlTxcI) - Levent Kantaroğlu & Ümit Duran
+- [Flutter'a Doğru #3 - Widget ve Demo Uygulama](https://youtu.be/vSl65KquJf0) - Levent Kantaroğlu & Ümit Duran
+- [Flutter'a Doğru #4 - State Management ve Demo Uygulama](https://youtu.be/em8LAuo3Gfk) - Levent Kantaroğlu & Ümit Duran
+- [Flutter'a Doğru #5 - Packages ve Firebase Entegrasyonu](https://youtu.be/LfSrSwWoPek) - Levent Kantaroğlu & Ümit Duran
+- [Flutter'a Doğru #6 - Pluginler ve Custom Plugin ile Native Kullanımı](https://youtu.be/LfSrSwWoPek) - Levent Kantaroğlu & Ümit Duran
+
+##### GDG Kayseri
+- [Flutter 101 | Gazihan Alankuş](https://youtu.be/U_qz78Lt0ss) - Gazihan Alankuş
+
+##### Devnot
+- [React Native vs. Flutter](https://youtu.be/uOiM_LEGnKI) - Veli Bacık & Zafer Ayan
+
+##### DSC Edirne
+- [Flutter vs React Native](https://youtu.be/BtxsOehgl_s) - Sercan Yusuf & Özge Aydın
+
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
 #### Topluluktan Kütüphaneler
