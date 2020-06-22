@@ -162,6 +162,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 ##### UI 
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
+- [Flutter Music Player](https://github.com/sbilketay/flutter_music_player) Music Player UI - Sezgin Bilgetay
 
 #### Flutter Favourites
 [Flutter Favourite](https://flutter.dev/docs/development/packages-and-plugins/favorites) ekibi, Flutter ekibi tarafından seçilmiş ve onaylanmış, kütüphaneleri gözden geçiren ve onaylayan bir topluluk. Seçtiği Kütüphaneler aşağıdaki gibi:
