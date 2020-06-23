@@ -21,6 +21,7 @@ Bu kaynak hazırlanırken [Awesome Flutter](https://github.com/Solido/awesome-fl
 ## Ortak Kaynaklar
 - [Kütüphaneler](#kutuphaneler)
 - [Sosyal Ağlar](#sosyal-aglar)
+- [Açık Kaynak Kodlar](#acık-kaynak-kodlar)
 
 
 ### <a name="turkce-makaleler"></a>Türkçe Makaleler 🇹🇷 📝
@@ -158,12 +159,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
-#### Topluluktan Kütüphaneler
-
-##### UI 
-- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
-- [Flutter Music Player](https://github.com/sbilketay/flutter_music_player) Music Player UI - Sezgin Bilgetay
-
 #### Flutter Favourites
 [Flutter Favourite](https://flutter.dev/docs/development/packages-and-plugins/favorites) ekibi, Flutter ekibi tarafından seçilmiş ve onaylanmış, kütüphaneleri gözden geçiren ve onaylayan bir topluluk. Seçtiği Kütüphaneler aşağıdaki gibi:
 
@@ -209,6 +204,9 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [built_collection](https://pub.dev/packages/built_collection) - Immutable (değiştirilemez) objeler veya veri tipleri ile liste gibi koleksiyonları oluşturmanıza yardımcı olan kütüphane. 
 - [built_value_generator](https://pub.dev/packages/built_value_generator) - built_value için amatik kod oluşturmaya yardımcı olan kütüphane.
 
+###  <a name="acık-kaynak-kodlar"></a>Açık Kaynak Kodlar
+- [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
+- [Flutter Music Player](https://github.com/sbilketay/flutter_music_player) Music Player UI - Sezgin Bilgetay
 
 ###  <a name="sosyal-aglar"></a>Sosyal Ağlar
 - 🐦 [Flutter Türkiye](https://twitter.com/flutter_turkiye)
