@@ -23,6 +23,12 @@ Bu kaynak hazırlanırken [Awesome Flutter](https://github.com/Solido/awesome-fl
 - [Sosyal Ağlar](#sosyal-aglar)
 - [Açık Kaynak Kodlar](#acık-kaynak-kodlar)
 
+## Türkçe Flutter Yol Haritası
+
+Flutter öğrenmeye başlayan pek çok insan nereden başlayacağını veya nasıl bir yol izleyeceğini bilemiyor ya da neler yapacağını düşünüyor. Bu sebeple aşağıdaki kendimce doğru olduğunu düşündüğüm Flutter öğrenme yol haritasını çizdim.
+
+![Yol Haritası](/images/flutter_roadmap.png)
+
 
 ### <a name="turkce-makaleler"></a>Türkçe Makaleler 🇹🇷 📝
 Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde burada bulunabilir.
@@ -213,6 +219,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - 🐦 [Flutter İzmir](https://twitter.com/FlutterIzmir)
 
 ## TODO
-- [ ] Roadmap eklenecek
+- [x] Roadmap eklenecek
 - [ ] İngilizce kaynak eklenecek
 - [ ] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
