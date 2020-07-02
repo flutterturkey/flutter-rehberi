@@ -216,6 +216,14 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ###  <a name="acık-kaynak-kodlar"></a>Açık Kaynak Kodlar
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
 - [Flutter Music Player](https://github.com/sbilketay/flutter_music_player) Music Player UI - Sezgin Bilgetay
+- [Netflix](https://github.com/YaseenAbdullah/Netflix) - Yaseen Abdullah
+- [curved_navigation_bar](https://github.com/rafalbednarczuk/curved_navigation_bar) - rafalbednarczuk
+- [aplanetTV](https://github.com/daturit/aplanetTV/tree/master/flutter_animal_planet) - Le Anh Tuan
+- [Flutter-Fruits-Cart](https://github.com/Hatemido/Flutter-Fruits-Cart?fbclid=IwAR33IlXZsVsSD3QloTRTQSJalv_GSPMP50I5LfJn8HA4nTAWinC0ZXko4Vc) - Ahmed El-Sayed Ali
+- [fancy_on_boarding](https://github.com/xsahil03x/fancy_on_boarding) - Sahil Kumar
+- [mask_detector](https://github.com/AniketSindhu/mask_detector?fbclid=IwAR0r83ro108hdda-PJiE2ubuEGwhhuwwlXYHhRBN8-pKCz5V9JcP6VfcZh0) - ANIKET SINDHU
+- [Flutter-UI-Reality](https://github.com/kelvin147789/Flutter-UI-Reality) - kelvin147789
+- [eBook_app_Flutter](https://github.com/abuanwar072/eBook_app_Flutter?fbclid=IwAR3MGsEMFpLh5kAzKbtAxMjfJSpwoe0iWNdFTA3sgTalnUH-a3-OwQpDj-Q) - Abu Anwar
 
 ###  <a name="sosyal-aglar"></a>Sosyal Ağlar
 - 🐦 [Flutter Türkiye](https://twitter.com/flutter_turkiye)
@@ -237,7 +245,7 @@ Flutter ile ilgili İngilizce makaleler kategorilerine göre ayrılmış halde b
 - [Navigation Rail Widget](https://itnext.io/navigation-rail-widget-flutter-1-17-229f7c5d3215) - Muhammad Hamza
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386) - Hans Muller
 
-#### Kütüphaneler
+#### Eğitici İçerikler
 - [MVC in Flutter App](https://itnext.io/mvc-in-flutter-app-the-holy-quran-app-c0fd8ae31d67) - Muhammad Hamza
 - [Should I query my Firebase database directly, or use Cloud Functions?](https://medium.com/firebase-developers/should-i-query-my-firebase-database-directly-or-use-cloud-functions-fbb3cd14118c) - Doug Stevenson
 - [Flutter: Reusable Widgets](https://medium.com/flutter-community/flutter-reusable-widgets-38e270846d59) - Aanal Mehta
@@ -257,12 +265,12 @@ Flutter ile ilgili İngilizce makaleler kategorilerine göre ayrılmış halde b
 ### <a name="ingilizce-videolar"></a>İngilizce Videolar ENG 📝
 Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde burada bulunabilir.
 
-### Flutter ile REST APİ Bağlantısı 
+### Flutter ile Rest Api Bağlantısı 
 
 - [Flutter: How to Connect to NodeJS & MySQL](https://www.youtube.com/watch?v=h7oHwRzcZeo) - Ameen Sayegh
 - [ASP.NET Core API](https://www.youtube.com/watch?v=3YKGVy852R4&list=PLsuGDhUzy1NCSOEvguNmNECDput2VA2pT) - Alaeddin Alhamoud
 
-### Flutter Genel Kaynak
+### Flutter Eğitim Serileri
 
 - [MTECHVIRAL](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - Pawan Kumar
 - [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q/playlists) - Techie Blossom
@@ -277,17 +285,6 @@ Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde bu
 
 - [Food Delivery App](https://www.youtube.com/watch?v=8xwWilMuTlg&list=PLbd9-9nbCzE4GwQX6UL5MZcK571APZ5Yf) - Flutter Zone
 
-
-###  <a name="acık-kaynak-kodlar-eng"></a>Açık Kaynak Kodlar
-
-- [Netflix](https://github.com/YaseenAbdullah/Netflix) - Yaseen Abdullah
-- [curved_navigation_bar](https://github.com/rafalbednarczuk/curved_navigation_bar) - rafalbednarczuk
-- [aplanetTV](https://github.com/daturit/aplanetTV/tree/master/flutter_animal_planet) - Le Anh Tuan
-- [Flutter-Fruits-Cart](https://github.com/Hatemido/Flutter-Fruits-Cart?fbclid=IwAR33IlXZsVsSD3QloTRTQSJalv_GSPMP50I5LfJn8HA4nTAWinC0ZXko4Vc) - Ahmed El-Sayed Ali
-- [fancy_on_boarding](https://github.com/xsahil03x/fancy_on_boarding) - Sahil Kumar
-- [mask_detector](https://github.com/AniketSindhu/mask_detector?fbclid=IwAR0r83ro108hdda-PJiE2ubuEGwhhuwwlXYHhRBN8-pKCz5V9JcP6VfcZh0) - ANIKET SINDHU
-- [Flutter-UI-Reality](https://github.com/kelvin147789/Flutter-UI-Reality) - kelvin147789
-- [eBook_app_Flutter](https://github.com/abuanwar072/eBook_app_Flutter?fbclid=IwAR3MGsEMFpLh5kAzKbtAxMjfJSpwoe0iWNdFTA3sgTalnUH-a3-OwQpDj-Q) - Abu Anwar
 
 ## TODO
 - [x] Roadmap eklenecek
