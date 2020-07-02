@@ -47,6 +47,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter Nedir ?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - Halil Özel
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde) - Halil Özel
 - [Flutter’ın Mimarisi ve Dart’ın Flutter üzerindeki etkisi](https://medium.com/flutter-t%C3%BCrkiye/flutter%C4%B1n-mimarisi-ve-dart-%C4%B1n-flutter-%C3%BCzerindeki-etkisi-b9b652d0525) - Muhammed Salih Güler
+- [Flutter’ da pro düzeye ulaşmak için gerekli adımlar](https://medium.com/@hubders/flutter-da-pro-d%C3%BCzeye-ula%C5%9Fmak-i%C3%A7in-gerekli-ad%C4%B1mlar-faa6837a03de) - DersHub
 
 #### Widgetlar
 - [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
@@ -116,6 +117,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Dart'a Giris - 3 - Fonksiyonlar, if/else ve switch-case, Döngüler](https://www.youtube.com/watch?v=YFbYJstBHT8) - Muhammed Salih Güler.
 - [Dart'a Giris - 2 - var, final, const ve Dart Veri Tipler](https://www.youtube.com/watch?v=Nf857FM309w) - Muhammed Salih Güler.
 - [Dart'a Giris - 1 - Dart Nedir? Dart Temel Prensipleri ve Dartpad Kullanimi](https://www.youtube.com/watch?v=iiPNI8Cs-0k) - Muhammed Salih Güler.
+- [Flutter Eğitim Serisi](https://www.youtube.com/watch?v=j6awMoInvmI&list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK) - Kesali Tech
 
 #### Flutter'ı devam eden uygulamaya eklemek
 - [Flutter'i devam eden projenize nasil ekleyebilirsiniz? Muhammed Salih Guler - Devfest Ankara](https://www.youtube.com/watch?v=01OnLugvrMc) - Muhammed Salih Güler.
@@ -214,12 +216,74 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ###  <a name="acık-kaynak-kodlar"></a>Açık Kaynak Kodlar
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
 - [Flutter Music Player](https://github.com/sbilketay/flutter_music_player) Music Player UI - Sezgin Bilgetay
+- [Netflix](https://github.com/YaseenAbdullah/Netflix) - Yaseen Abdullah
+- [curved_navigation_bar](https://github.com/rafalbednarczuk/curved_navigation_bar) - rafalbednarczuk
+- [aplanetTV](https://github.com/daturit/aplanetTV/tree/master/flutter_animal_planet) - Le Anh Tuan
+- [Flutter-Fruits-Cart](https://github.com/Hatemido/Flutter-Fruits-Cart?fbclid=IwAR33IlXZsVsSD3QloTRTQSJalv_GSPMP50I5LfJn8HA4nTAWinC0ZXko4Vc) - Ahmed El-Sayed Ali
+- [fancy_on_boarding](https://github.com/xsahil03x/fancy_on_boarding) - Sahil Kumar
+- [mask_detector](https://github.com/AniketSindhu/mask_detector?fbclid=IwAR0r83ro108hdda-PJiE2ubuEGwhhuwwlXYHhRBN8-pKCz5V9JcP6VfcZh0) - ANIKET SINDHU
+- [Flutter-UI-Reality](https://github.com/kelvin147789/Flutter-UI-Reality) - kelvin147789
+- [eBook_app_Flutter](https://github.com/abuanwar072/eBook_app_Flutter?fbclid=IwAR3MGsEMFpLh5kAzKbtAxMjfJSpwoe0iWNdFTA3sgTalnUH-a3-OwQpDj-Q) - Abu Anwar
 
 ###  <a name="sosyal-aglar"></a>Sosyal Ağlar
 - 🐦 [Flutter Türkiye](https://twitter.com/flutter_turkiye)
 - 🐦 [Flutter İzmir](https://twitter.com/FlutterIzmir)
 
+
+## İngilizce Kaynak Başlıkları
+- [Makaleler](#ingilizce-makaleler)
+- [Videolar](#ingilizce-videolar)
+
+### <a name="ingilizce-makaleler"></a>İngilizce Makaleler ENG 📝
+Flutter ile ilgili İngilizce makaleler kategorilerine göre ayrılmış halde burada bulunabilir.
+
+#### Widgetlar
+
+- [Navigation Rail Widget](https://itnext.io/navigation-rail-widget-flutter-1-17-229f7c5d3215) - Muhammad Hamza
+- [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386) - Hans Muller
+
+#### Eğitici İçerikler
+- [MVC in Flutter App](https://itnext.io/mvc-in-flutter-app-the-holy-quran-app-c0fd8ae31d67) - Muhammad Hamza
+- [Should I query my Firebase database directly, or use Cloud Functions?](https://medium.com/firebase-developers/should-i-query-my-firebase-database-directly-or-use-cloud-functions-fbb3cd14118c) - Doug Stevenson
+- [Flutter: Reusable Widgets](https://medium.com/flutter-community/flutter-reusable-widgets-38e270846d59) - Aanal Mehta
+- [Realtime Chat App - One-to-One using Flutter, Socket.io & Node.js](https://medium.com/flutter-community/realtime-chat-app-one-to-one-using-flutter-socket-io-node-js-acd4152c6a00) - Ibtesam Ansari
+- [Connectivity Wrapper: Network-Aware Flutter App](https://medium.com/nonstopio/connectivity-wrapper-network-aware-flutter-app-cd3c78cf01b0) - Ajay Kumar
+- [How to use Cloud Firestore with Flutter](https://medium.com/@atul.sharma_94062/how-to-use-cloud-firestore-with-flutter-e6f9e8821b27) - Atul Sharma
+- [Using SQLite in Flutter](https://medium.com/flutter-community/using-sqlite-in-flutter-187c1a82e8b) - Raouf Rahiche
+- [Flutter: keyboard actions and next focus field](https://medium.com/flutterpub/flutter-keyboard-actions-and-next-focus-field-3260dc4c694) - Liem Vo
+- [60 Days of Flutter : Day 1 - Creating the App](https://medium.com/@adityadroid/60-days-of-flutter-creating-the-app-ea0407b472ae) - Aditya Gurjar
+- [Hide or Show Floating button on Scroll in Flutter](https://medium.com/@wnsfernando95/hide-or-show-floating-button-on-scroll-in-flutter-636d660ff9fb) - Nuwantha Fernando
+- [How to restrict device orientation in Flutter](https://medium.com/@kr1uz/how-to-restrict-device-orientation-in-flutter-65431cd35113) - Jon Delgado
+
+
+#### Mimari
+- [Everything is a Widget, but don’t put everything in one Widget!](https://medium.com/@lets4r/everything-is-a-widget-but-dont-put-everything-in-a-widget-32f89b5c8bdb) - Romain Rastel
+
+### <a name="ingilizce-videolar"></a>İngilizce Videolar ENG 📝
+Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde burada bulunabilir.
+
+### Flutter ile Rest Api Bağlantısı 
+
+- [Flutter: How to Connect to NodeJS & MySQL](https://www.youtube.com/watch?v=h7oHwRzcZeo) - Ameen Sayegh
+- [ASP.NET Core API](https://www.youtube.com/watch?v=3YKGVy852R4&list=PLsuGDhUzy1NCSOEvguNmNECDput2VA2pT) - Alaeddin Alhamoud
+
+### Flutter Eğitim Serileri
+
+- [MTECHVIRAL](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - Pawan Kumar
+- [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q/playlists) - Techie Blossom
+- [Mobile Programmer](https://www.youtube.com/watch?v=DrM0RBOhh0w&list=PLMrtoLeyKwKwokybjCEZeKiiQr_Lh9xYV) - coderzheaven.com
+- [Flutter UI](https://www.youtube.com/channel/UCF_kyKGFfidA_sZnNjvW_OA/playlists) - MegaJoon
+- [Sanskar Tiwari](https://www.youtube.com/c/SanskarTiwari/playlists) - Sanskar Tiwari
+- [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/playlists) - Dane Mackier
+- [Easy Approach](https://www.youtube.com/watch?v=QwXqNGPaacY&list=PLh7i6AwsWt1s4GFfeBNsU8WiKhOPg1kix) - Maaz Aftab
+- [Flutter App Examples](https://www.youtube.com/playlist?list=PL7-pKZRVQPeDp7qc-ZA28-UdnD9k0AzdS&fbclid=IwAR1sEdtTgpZGwN534pTanSdkIYYWSHxfgd_wUSfG4ntMcpf2jm7qUjX3qAY) - Raja Yogan
+
+### Proje Yapımı
+
+- [Food Delivery App](https://www.youtube.com/watch?v=8xwWilMuTlg&list=PLbd9-9nbCzE4GwQX6UL5MZcK571APZ5Yf) - Flutter Zone
+
+
 ## TODO
 - [x] Roadmap eklenecek
-- [ ] İngilizce kaynak eklenecek
+- [x] İngilizce kaynak eklenecek
 - [ ] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
