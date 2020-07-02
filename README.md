@@ -234,9 +234,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Makaleler](#ingilizce-makaleler)
 - [Videolar](#ingilizce-videolar)
 
-## Ortak Kaynaklar
-- [Açık Kaynak Kodlar](#acık-kaynak-kodlar-eng)
-
 ### <a name="ingilizce-makaleler"></a>İngilizce Makaleler ENG 📝
 Flutter ile ilgili İngilizce makaleler kategorilerine göre ayrılmış halde burada bulunabilir.
 
