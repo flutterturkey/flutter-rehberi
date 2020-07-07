@@ -8,7 +8,7 @@ Eklerken, repodaki düzeni korumak adına bir takım basit kuralın hem bizlere 
 
 - Repoyu kendi hesabınıza forklayın.
 - Eklemek istediğiniz kaynağı, ait olduğu kategorinin en alt kısmına ekleyin. Ait olduğunu düşündüğünüz kategori yoksa, pull request oluştururken lütfen belirtin. 
-- Commit mesajlarında yaptığınız işlemi İngilizce olarak eklemeniz daha iyi olur. Hangi dilde eklerseniz, lütfen işleminizi düzgün bir mesaj ile tarif edin
+- Commit mesajlarında yaptığınız işlemi İngilizce olarak eklemeniz daha iyi olur. Hangi dilde eklerseniz, lütfen işleminizi düzgün bir mesaj ile tarif edin.
 - Bir makale veya video eklediğinizde aşağıdaki şablonu aklınızda tutarak ekleyin, bu sayede listedeki tüm kaynaklar arasında uyum olur.
  ``` 
 [Kaynak başlığı](link) - [Yazar'ın Adı]
