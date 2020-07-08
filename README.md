@@ -264,12 +264,12 @@ Flutter ile ilgili İngilizce makaleler kategorilerine göre ayrılmış halde b
 ### <a name="ingilizce-videolar"></a>İngilizce Videolar ENG 📝
 Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde burada bulunabilir.
 
-### Flutter ile Rest Api Bağlantısı 
+#### Flutter ile Rest Api Bağlantısı 
 
 - [Flutter: How to Connect to NodeJS & MySQL](https://www.youtube.com/watch?v=h7oHwRzcZeo) - Ameen Sayegh
 - [ASP.NET Core API](https://www.youtube.com/watch?v=3YKGVy852R4&list=PLsuGDhUzy1NCSOEvguNmNECDput2VA2pT) - Alaeddin Alhamoud
 
-### Flutter Eğitim Serileri
+#### Flutter Eğitim Serileri
 
 - [MTECHVIRAL](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - Pawan Kumar
 - [Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q/playlists) - Techie Blossom
@@ -280,7 +280,7 @@ Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde bu
 - [Easy Approach](https://www.youtube.com/watch?v=QwXqNGPaacY&list=PLh7i6AwsWt1s4GFfeBNsU8WiKhOPg1kix) - Maaz Aftab
 - [Flutter App Examples](https://www.youtube.com/playlist?list=PL7-pKZRVQPeDp7qc-ZA28-UdnD9k0AzdS&fbclid=IwAR1sEdtTgpZGwN534pTanSdkIYYWSHxfgd_wUSfG4ntMcpf2jm7qUjX3qAY) - Raja Yogan
 
-### Proje Yapımı
+#### Proje Yapımı
 
 - [Food Delivery App](https://www.youtube.com/watch?v=8xwWilMuTlg&list=PLbd9-9nbCzE4GwQX6UL5MZcK571APZ5Yf) - Flutter Zone
 
