@@ -185,6 +185,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [google_fonts](https://pub.dev/packages/google_fonts) - Flutter'da Google Font üzerindeki kütüphaneleri kullanmamıza yardımcı olan kütüphane.
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable) - Flutter'da liste elemanlarına, kaydırarak ekstra işlemler eklemenize yardımcı kütüphane.
 - [convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar) - Flutter'da custom bottom davranışta olan bottom bar oluşturmanıza yardımcı kütüphane.
+- [floating_bottom_bar](https://github.com/right7ctrl/flutter_floating_bottom_navigation_bar) - Flutter'da içeriğin üzerinde duran bottom bar oluşturmanıza yardımcı kütüphane.
 
 ##### Veri kaydetme
 - [shared_preferences](https://pub.dev/packages/shared_preferences) - Android ve iOS işletim sistemlerinde anahtar-değer şeklinde veri tutmamıza yardımcı olan kütüphane.
@@ -224,6 +225,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [mask_detector](https://github.com/AniketSindhu/mask_detector?fbclid=IwAR0r83ro108hdda-PJiE2ubuEGwhhuwwlXYHhRBN8-pKCz5V9JcP6VfcZh0) - ANIKET SINDHU
 - [Flutter-UI-Reality](https://github.com/kelvin147789/Flutter-UI-Reality) - kelvin147789
 - [eBook_app_Flutter](https://github.com/abuanwar072/eBook_app_Flutter?fbclid=IwAR3MGsEMFpLh5kAzKbtAxMjfJSpwoe0iWNdFTA3sgTalnUH-a3-OwQpDj-Q) - Abu Anwar
+- [Flutter Astrology App UI](https://github.com/right7ctrl/flutter_astrology_app) Astrology App UI - Murat Aslan
 
 ###  <a name="sosyal-aglar"></a>Sosyal Ağlar
 - 🐦 [Flutter Türkiye](https://twitter.com/flutter_turkiye)
