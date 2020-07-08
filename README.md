@@ -140,7 +140,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Dash on Fire #2](https://youtu.be/WeorjEfzUis) - Sercan Yusuf & Erol Kaftanoğlu
 - [Dash on Fire #3](https://youtu.be/W9GM01nz4Io) - Sercan Yusuf & Erol Kaftanoğlu
 - [Dash on Fire #4](https://youtu.be/ZUywKeNEtkA) - Sercan Yusuf & Erol Kaftanoğlu
-- [Dash on Fire #5](https://youtu.be/F1wRiltMXFA) - Sercan Yusuf & Erol Kaftanoğlu]
+- [Dash on Fire #5](https://youtu.be/F1wRiltMXFA) - Sercan Yusuf & Erol Kaftanoğlu
 - [Dash on Fire #6](https://youtu.be/whfZBiZNplw) - Sercan Yusuf & Erol Kaftanoğlul
 
 
