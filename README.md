@@ -108,7 +108,8 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter 1.9 ile Gelen Yenilikler](https://medium.com/flutter-t%C3%BCrkiye/flutter-1-9-ile-gelen-yenilikler-514c4200079c) - Ali Anıl Koçak
 - [Google IO 19 (Flutter Recap)](https://medium.com/flutter-t%C3%BCrkiye/google-i-o-2019-flutter-recap-tr-80b279d45b7e) - Ümit Duran
 
-
+#### Flutter'da 3. Parti Uygulamalar 
+- [Adobe XD to Flutter Kullanımı](https://medium.com/@numandirican/adobe-xd-to-flutter-kullan%C4%B1m%C4%B1-adobe-xd-to-flutter-using-6586200f5fc) - Numan Dirican
 
 ### <a name="turkce-videolar"></a>Türkçe Videolar 🇹🇷 🎥
 
