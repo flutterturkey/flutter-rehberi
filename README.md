@@ -270,6 +270,7 @@ Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde bu
 
 - [Flutter: How to Connect to NodeJS & MySQL](https://www.youtube.com/watch?v=h7oHwRzcZeo) - Ameen Sayegh
 - [ASP.NET Core API](https://www.youtube.com/watch?v=3YKGVy852R4&list=PLsuGDhUzy1NCSOEvguNmNECDput2VA2pT) - Alaeddin Alhamoud
+- [PHP API](https://www.youtube.com/watch?v=lTKFYGHx16M&t) - Reeva Academy
 
 #### Flutter Eğitim Serileri
 
@@ -282,6 +283,7 @@ Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde bu
 - [Easy Approach](https://www.youtube.com/watch?v=QwXqNGPaacY&list=PLh7i6AwsWt1s4GFfeBNsU8WiKhOPg1kix) - Maaz Aftab
 - [Flutter App Examples](https://www.youtube.com/playlist?list=PL7-pKZRVQPeDp7qc-ZA28-UdnD9k0AzdS&fbclid=IwAR1sEdtTgpZGwN534pTanSdkIYYWSHxfgd_wUSfG4ntMcpf2jm7qUjX3qAY) - Raja Yogan
 - [Dream Walker](https://www.youtube.com/c/JAICHANGPARK) - Dream Walker
+- [Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) - Flutter Way
 
 #### Proje Yapımı
 
