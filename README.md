@@ -469,19 +469,83 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Instagram Story View](https://github.com/awaik/flutter_instagram_stories)
 
 #### Audio
-
+- [Audio Player](https://github.com/luanpotter/audioplayers)
+- [Flutter Audio Player](https://github.com/rxlabz/audioplayer)
+- [Flutter Audio Services](https://github.com/ryanheise/audio_service) 
+- [Assets Audio Player](https://github.com/florent37/Flutter-AssetsAudioPlayer)
+- [Just Audio](https://github.com/ryanheise/just_audio)
+- [Audio Manager](https://github.com/jeromexiong/audio_manager)
+- [Flutter Audio Recorder](https://github.com/rmbrone/flutter_audio_recorder)
 
 #### Rating Bar
+- [Smooth Rating Bar](https://github.com/thangmam/smoothratingbar)
+- [Flutter Rating Bar](https://github.com/sarbagyastha/flutter_rating_bar)
+- [Rating Bar](https://github.com/joshmatta/rating_bar)
+- [Spon Rating Bar](https://github.com/cnsponmas/spon_rating_bar)
+- [Simple Rating Bar](https://github.com/docwei2050/flutter_simple_rating_bar)
 
 #### Textfield
+- [Extended Textfield](https://github.com/fluttercandies/extended_text_field)
+- [Pin Input Textfield](https://github.com/TinoGuo/pin_input_text_field)
+- [Pin Input](https://github.com/Tkko/Flutter_PinPut)
+- [Multi Format Textfield](https://github.com/caseyryan/flutter_multi_formatter)
+- [Auto Size Textfield](https://github.com/lzhuor/auto_size_text_field)
+- [Phone Input Textfield](https://github.com/rickywen911/phone_input_text_field)
+- [Responsive Textfield](https://github.com/vikram25897/fluttter_responsive_text_field)
+- [Auto Complete Textfield](https://github.com/felixlucien/flutter-autocomplete-textfield)
+- [Beauty Textfield](https://github.com/hipoojan/BeautyTextfield)
+- [Rich Textfield](https://github.com/hyz1992/rich_textfield)
 
 #### Picker
+- [Country Picker](https://github.com/figengungor/country_pickers)
+- [Flutter Picker](https://github.com/yangyxd/flutter_picker)
+- [Flutter Pickers](https://github.com/codegrue/flutter_material_pickers)
+- [Number Picker](https://github.com/MarcinusX/NumberPicker)
+- [Color Picker](https://github.com/mchome/flutter_colorpicker)
+- [Icon Picker](https://github.com/Ahmadre/FlutterIconPicker)
+- [Country Code Picker](https://github.com/imtoori/CountryCodePicker)
+- [Material Picker](https://github.com/long1eu/material_pickers)
+- [Emoji Picker](https://github.com/JeffG05/emoji_picker)
+- [Flutter Color Picker](https://github.com/Pyozer/flutter_material_color_picker)
+- [HSV Color Picker](https://github.com/fluttercandies/flutter_hsvcolor_picker)
+- [Circle Color Picker](https://github.com/itome/flutter_circle_color_picker)
+- [GIF Picker](https://github.com/firstfloorsoftware/giphy_picker)
 
 #### Bottom Navigation
+- [Bottom Navigation Bar](https://github.com/pedromassango/bottom_navy_bar)
+- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation)
+- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation)
+- [Flip Box Bar](https://github.com/deven98/flip_box_bar)
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar)
+- [Snake Bottom Navigation Bar](https://github.com/herodotdigital/SnakeBottomNavigationBar)
+- [Rolling Navigation Bar](https://github.com/craiglabenz/flutter_rolling_nav_bar)
+- [Persistent Bottom Navigation Bar](https://github.com/BilalShahid13/PersistentBottomNavBar)
+- [Spin Circle Bottom Bar](https://github.com/retroportalstudio/spincircle_bottom_bar)
+- [Animated Bottom Navigation Bar](https://github.com/LanarsInc/animated-bottom-navigation-bar-flutter)
+- [Bubble Animated Bar](https://github.com/IronLad85/bubble_animated_tabbar)
+- [Floating Bottom Navigation Bar](https://github.com/right7ctrl/flutter_floating_bottom_navigation_bar)
+- [Flutter Multi Navigator Bottom Bar](https://github.com/showang/flutter_multi_navigator_bottom_bar)
+- [Sphere Bottom Navigation Bar](https://github.com/PremRajpurohit/sphere_bottom_navigation_bar)
 
 #### TabBar
+- [Gooey Tab Bar](https://github.com/wiltonribeiro/gooey_tabbar_flutter)
+- [Nested Tab Bar](https://github.com/IAmSarthakVerma/NestedTabBar-Flutter)
+- [Motion Tab Bar](https://github.com/therezacuet/Motion-Tab-Bar)
+- [Flutter Custom Tab Bar](https://github.com/LiuC520/flutter_custom_bottom_tab_bar)
+- [Flashy Tab Bar](https://github.com/leesnhyun/flashy_tab_bar)
+- [Flutter Point Tab Bar](https://github.com/hienlh/flutter_point_tab_bar)
 
 #### Drawer
+- [Multi Level Drawer](https://github.com/retroportalstudio/multilevel_drawer)
+- [Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer)
+- [Flutter Delivery](https://github.com/pedromassango/flutter_delivery)
+- [Drawer Challenge](https://github.com/MarcinusX/drawer_challenge)
+- [KF Drawer](https://github.com/qqmikey/kf_drawer)
+- [Flutter Slider Drawer](https://github.com/NikhilVadoliya/Flutter_slider_drawer)
+- [Behavior Drawer](https://github.com/shiburagi/Drawer-Behavior-Flutter)
+- [Zoom Drawer](https://github.com/medyas/flutter_zoom_drawer)
+- [Sliding Drawer](https://github.com/umangce/sliding-nav-bar)
+- [Flutter Debug Drawer](https://github.com/sergiandreplace/flutter_debug_drawer)
 
 
 ###  <a name="acık-kaynak-kodlar"></a>Açık Kaynak Kodlar
