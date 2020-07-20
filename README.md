@@ -218,14 +218,72 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ### UI Bileşenleri
 
 #### Button
-- [pimp_my_button](https://github.com/Norbert515/pimp_my_button) 
+- [Animated Button](https://github.com/Norbert515/pimp_my_button) 
+- [Progress Button](https://github.com/halilozercan/ProgressButton)
+- [Like Button](https://github.com/fluttercandies/like_button)
+- [Auth Buttons](https://github.com/dmjones/flutter_auth_buttons)
+- [Sign In Buttons](https://github.com/ZaynJarvis/Flutter-Sign-in-Button)
+- [Progress Button](https://github.com/IhorKlimov/FlutterProgressButton)
+- [F Button](https://github.com/Fliggy-Mobile/fbutton) - Her türlü butonu oluşturmanıza olanak sağlayan zengin bir buton kütüphanesidir.
+- [Slider Button](https://github.com/anirudhsharma392/Slider-Button)
+- [Reaction Button](https://github.com/GeekAbdelouahed/flutter-reaction-button) - Facebook beğeni sistemini Flutter'da kullanmamızı sağlayan bir buton kütüphanesidir.
+- [Group Button](https://github.com/ketanchoyal/custom_radio_grouped_button)
+- [Sleek Button](https://github.com/aloisdeniel/sleek_button) - Özelleştirebilir buton kütüphanesidir.
+- [Spring Button](https://github.com/aliyigitbireroglu/flutter-spring-button)
+- [Expanded Plus Button](https://github.com/olexale/expanded_plus_button) - Özel bir animasyona sahip buton kütüphanesidir.
+- [Animated Button](https://github.com/afgprogrammer/Flutter-button-animation)
+- [Progress Button](https://github.com/serdarpolat/flutter_progress_buttons)
+
 #### Card
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Kaydırılabilir kart tasarımı.
+- [Tinder Cards](https://github.com/ShaunRain/flutter_tindercard)
+- [Swipable Card](https://github.com/geekruchika/FlutterCardSwipe) - Kaydırılabilir kart tasarımı.
+- [Infinite Cards](https://github.com/BakerJQ/Flutter-InfiniteCards) - Özel bir animasyona sahip kart kütüphanesi.
+- [Flip Card](https://github.com/fedeoo/flip_card) - Döndürülebilir kart tasarımı.
+- [Scratcher](https://github.com/vintage/scratcher) - Kazı Kazan Kart tasarımı :)
+- [Slimy Card](https://github.com/AkashDivya/SlimyCard-Animated-Flutter-Package) - Özel ve güzel bir animasyona sahip kart kütüphanesi.
+- [Credit Card](https://github.com/Origogi/Flutter-Credit-Card-Input-Form)
+- [Card UI Kit](https://github.com/illukinati/card_ui_kit) - İçeriğinde birden fazla hazır kart tasarımı barındıran kart kütüphanesi.
+- [Credit Card](https://github.com/simformsolutions/flutter_credit_card)
+- [Shots](https://github.com/ninest/Shots) - Açık kaynak flash card uygulaması.
+- [Expansion Tile Card](https://github.com/Skylled/expansion_tile_card)
+- [Vertical Card Pager](https://github.com/Origogi/Vertical_Card_Pager)
 
 #### Image
+- [Before After Image](https://github.com/salihgueler/flutter_before_after_image) 
+- [Photo View](https://github.com/renancaraujo/photo_view)
+- [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker)
+- [Image Cropper](https://github.com/hnvn/flutter_image_cropper)
+- [Before After Image](https://github.com/xsahil03x/before_after)
+- [Image Compress](https://github.com/OpenFlutter/flutter_image_compress) - Uygulama içerisinde kullanılan resimlerin boyutlarını küçültmemize olanak sağlayan kütüphane.
+- [Image Compress](https://github.com/crazecoder/flutter_luban) - Uygulama içerisinde kullanılan resimlerin boyutlarını küçültmemize olanak sağlayan kütüphane.
+- [Blur Image](https://github.com/fluttercommunity/flutter_blurhash) - İstenilen resmi, istenilen oranda bulanıklaştıran kütüphane.
+- [Image Cropper](https://github.com/lykhonis/image_crop)
+- [Photo Filter](https://github.com/skkallayath/photofilters) - İstenilen resme, içeriğinde bulunan hazır filtreleri uygulamamıza olanak sağlayan kütüphane.
 
 #### Animation
+- [Lottie](https://pub.dev/packages/lottie) - [lottiefiles.com](https://lottiefiles.com) adresinde bulunan hazır animasyonları uygulamamızda kullanmamıza olanak sağlayan bir kütüphanedir.
+- [Spin Kit](https://github.com/jogboms/flutter_spinkit)
+- [Shimmer Effect](https://github.com/hnvn/flutter_shimmer)
+- [Login Home Animation](https://github.com/GeekyAnts/flutter-login-home-animation)
+- [Staggered Animation](https://github.com/mobiten/flutter_staggered_animations)
+- [Simple Animations](https://github.com/felixblaschke/simple_animations) - Basit animasyon oluşturmamızı sağlayan kütüphane.
+- [Wave Animation](https://github.com/i-protoss/wave)
+- [Flutter Effects](https://github.com/HitenDev/flutter_effects) - İçeriğinde hazır efektlerin bulunduğu animasyon kütüphanesi.
 
 #### Text
+- [Auto Size Text](https://github.com/leisim/auto_size_text)
+- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit)
+- [Rich Text](https://github.com/bytedance/RealRichText)
+- [Zefyr](https://github.com/memspace/zefyr) - İçeriğinde birçok özelliği barındıran zengin metin editörüdür.
+- [Masked Text](https://github.com/benhurott/flutter-masked-text)
+- [Linkify](https://github.com/Cretezy/flutter_linkify) - İstenilen metne metin içeriğindeki linke tıklama, metin içeriğini kopyalama gibi özellikleri verebilmemizi sağlayan kütüphane.
+- [Circular Text](https://github.com/faob-dev/flutter_circular_text) 
+- [CSS Text to Flutter](https://github.com/hathibelagal-dev/css_text_for_flutter)
+- [Vertical Text](https://github.com/wilin52/vertical_text) - İstenilen metni ekrana dikey olarak yazmamızı sağlayan kütüphane.
+- [Gradient Text](https://github.com/tunitowen/gradient_text)
+- [Easy Rich Text](https://github.com/2000calories/flutter_easy_rich_text)
+- [select Text](https://github.com/KNightING/flutter_selectext) Seçili olan metne vurgu ekleme ve seçili içeriği kopyalama gibi özellikleri verebilmemizi sağlayan kütüphane.
 
 #### Onboarding Screen
 
@@ -248,6 +306,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Progress
 
 #### Floating Action Button
+- [Diamond Fab](https://github.com/tensor-programming/diamond_fab) - Elmas şeklinde FAB oluşturmamızı sağlayan kütüphanedir.
 
 #### Pull To Refresh
 
