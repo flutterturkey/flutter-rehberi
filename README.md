@@ -215,6 +215,339 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [built_collection](https://pub.dev/packages/built_collection) - Immutable (değiştirilemez) objeler veya veri tipleri ile liste gibi koleksiyonları oluşturmanıza yardımcı olan kütüphane. 
 - [built_value_generator](https://pub.dev/packages/built_value_generator) - built_value için amatik kod oluşturmaya yardımcı olan kütüphane.
 
+### UI Bileşenleri
+
+#### Button
+- [Animated Button](https://github.com/Norbert515/pimp_my_button) 
+- [Progress Button](https://github.com/halilozercan/ProgressButton)
+- [Like Button](https://github.com/fluttercandies/like_button)
+- [Auth Buttons](https://github.com/dmjones/flutter_auth_buttons)
+- [Sign In Buttons](https://github.com/ZaynJarvis/Flutter-Sign-in-Button)
+- [Progress Button](https://github.com/IhorKlimov/FlutterProgressButton)
+- [F Button](https://github.com/Fliggy-Mobile/fbutton) - Her türlü butonu oluşturmanıza olanak sağlayan zengin bir buton kütüphanesidir.
+- [Slider Button](https://github.com/anirudhsharma392/Slider-Button)
+- [Reaction Button](https://github.com/GeekAbdelouahed/flutter-reaction-button) - Facebook beğeni sistemini Flutter'da kullanmamızı sağlayan bir buton kütüphanesidir.
+- [Group Button](https://github.com/ketanchoyal/custom_radio_grouped_button)
+- [Sleek Button](https://github.com/aloisdeniel/sleek_button) - Özelleştirebilir buton kütüphanesidir.
+- [Spring Button](https://github.com/aliyigitbireroglu/flutter-spring-button)
+- [Medium Clapping Effect](https://github.com/iampawan/MediumClapFlutter)
+- [Expanded Plus Button](https://github.com/olexale/expanded_plus_button) - Özel bir animasyona sahip buton kütüphanesidir.
+- [Animated Button](https://github.com/afgprogrammer/Flutter-button-animation)
+- [Progress Button](https://github.com/serdarpolat/flutter_progress_buttons)
+
+#### Card
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Kaydırılabilir kart tasarımı.
+- [Tinder Cards](https://github.com/ShaunRain/flutter_tindercard)
+- [Swipable Card](https://github.com/geekruchika/FlutterCardSwipe) - Kaydırılabilir kart tasarımı.
+- [Infinite Cards](https://github.com/BakerJQ/Flutter-InfiniteCards) - Özel bir animasyona sahip kart kütüphanesi.
+- [Flip Card](https://github.com/fedeoo/flip_card) - Döndürülebilir kart tasarımı.
+- [Scratcher](https://github.com/vintage/scratcher) - Kazı Kazan Kart tasarımı :)
+- [Slimy Card](https://github.com/AkashDivya/SlimyCard-Animated-Flutter-Package) - Özel ve güzel bir animasyona sahip kart kütüphanesi.
+- [Credit Card](https://github.com/Origogi/Flutter-Credit-Card-Input-Form)
+- [Card UI Kit](https://github.com/illukinati/card_ui_kit) - İçeriğinde birden fazla hazır kart tasarımı barındıran kart kütüphanesi.
+- [Credit Card](https://github.com/simformsolutions/flutter_credit_card)
+- [Shots](https://github.com/ninest/Shots) - Açık kaynak flash card uygulaması.
+- [Expansion Tile Card](https://github.com/Skylled/expansion_tile_card)
+- [Vertical Card Pager](https://github.com/Origogi/Vertical_Card_Pager)
+
+#### Image
+- [Before After Image](https://github.com/salihgueler/flutter_before_after_image) 
+- [Photo View](https://github.com/renancaraujo/photo_view)
+- [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker)
+- [Image Cropper](https://github.com/hnvn/flutter_image_cropper)
+- [Before After Image](https://github.com/xsahil03x/before_after)
+- [Image Compress](https://github.com/OpenFlutter/flutter_image_compress) - Uygulama içerisinde kullanılan resimlerin boyutlarını küçültmemize olanak sağlayan kütüphane.
+- [Image Compress](https://github.com/crazecoder/flutter_luban) - Uygulama içerisinde kullanılan resimlerin boyutlarını küçültmemize olanak sağlayan kütüphane.
+- [Blur Image](https://github.com/fluttercommunity/flutter_blurhash) - İstenilen resmi, istenilen oranda bulanıklaştıran kütüphane.
+- [Image Cropper](https://github.com/lykhonis/image_crop)
+- [Photo Filter](https://github.com/skkallayath/photofilters) - İstenilen resme, içeriğinde bulunan hazır filtreleri uygulamamıza olanak sağlayan kütüphane.
+
+#### Animation
+- [Lottie](https://pub.dev/packages/lottie) - [lottiefiles.com](https://lottiefiles.com) adresinde bulunan hazır animasyonları uygulamamızda kullanmamıza olanak sağlayan bir kütüphanedir.
+- [Spin Kit](https://github.com/jogboms/flutter_spinkit)
+- [Shimmer Effect](https://github.com/hnvn/flutter_shimmer)
+- [Login Home Animation](https://github.com/GeekyAnts/flutter-login-home-animation)
+- [Staggered Animation](https://github.com/mobiten/flutter_staggered_animations)
+- [Simple Animations](https://github.com/felixblaschke/simple_animations) - Basit animasyon oluşturmamızı sağlayan kütüphane.
+- [Wave Animation](https://github.com/i-protoss/wave)
+- [Flutter Effects](https://github.com/HitenDev/flutter_effects) - İçeriğinde hazır efektlerin bulunduğu animasyon kütüphanesi.
+
+#### Text
+- [Auto Size Text](https://github.com/leisim/auto_size_text)
+- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit)
+- [Rich Text](https://github.com/bytedance/RealRichText)
+- [Zefyr](https://github.com/memspace/zefyr) - İçeriğinde birçok özelliği barındıran zengin metin editörüdür.
+- [Masked Text](https://github.com/benhurott/flutter-masked-text)
+- [Linkify](https://github.com/Cretezy/flutter_linkify) - İstenilen metne metin içeriğindeki linke tıklama, metin içeriğini kopyalama gibi özellikleri verebilmemizi sağlayan kütüphane.
+- [Circular Text](https://github.com/faob-dev/flutter_circular_text) 
+- [CSS Text to Flutter](https://github.com/hathibelagal-dev/css_text_for_flutter)
+- [Vertical Text](https://github.com/wilin52/vertical_text) - İstenilen metni ekrana dikey olarak yazmamızı sağlayan kütüphane.
+- [Gradient Text](https://github.com/tunitowen/gradient_text)
+- [Easy Rich Text](https://github.com/2000calories/flutter_easy_rich_text)
+- [Selectable Text](https://github.com/KNightING/flutter_selectext) Seçili olan metne vurgu ekleme ve seçili içeriği kopyalama gibi özellikleri verebilmemizi sağlayan kütüphane.
+
+#### Onboarding Screen
+- [Fancy Onboarding Screen](https://github.com/xsahil03x/fancy_on_boarding)
+- [Onboarding Screen](https://github.com/durannumit/flutter_onboarding_screen)
+- [Overboard](https://github.com/kumar-aakash86/flutter_overboard)
+- [Onboarding Screen](https://github.com/theindianappguy/app_onboarding)
+- [Onboarding UI Concept](https://github.com/CODEHOMIE/Flutter-Onboarding-UI-Concept)
+- [SK Onboarding Screen](https://github.com/senthilece01/SKOnboardingScreen)
+- [Food Onboarding Page](https://github.com/CODEHOMIE/Flutter-Food-Onboarding-Screen)
+- [Animated Onboarding Screen](https://github.com/tiamo/flutter-concentric-transition)
+
+#### List
+- [Timeline List](https://github.com/furkantektas/timeline_list)
+- [Drag and Drop List](https://github.com/Norbert515/flutter_list_drag_and_drop)
+- [List UI](https://github.com/shubie/Beautiful-List-UI-and-detail-page) - Özelleştirilmiş liste ve detay ekranı bulunan açık kaynak proje.
+- [Side Header Listview](https://github.com/renefloor/side_header_list_view)
+- [Reorderable List](https://github.com/knopp/flutter_reorderable_list)
+- [Load More Listview](https://github.com/OpenFlutter/flutter_listview_loadmore)
+- [Load More Listview](https://github.com/fluttercandies/loading_more_list)
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview)
+- [Slidable Listview](https://github.com/letsar/flutter_slidable)
+- [Sticky Header List](https://github.com/itsJoKr/sticky_header_list)
+- [Grouped List](https://github.com/Dimibe/grouped_list)
+- [Timeline List](https://github.com/rejish4gt/flutter-timeline)
+- [Animated Stream List](https://github.com/adithyaxx/animated-stream-list)
+
+#### Chip
+- [Chip Widget](https://github.com/whatsupcoders/Flutter-Chip-Widget)
+- [Chips Choice](https://github.com/davigmacode/flutter_chips_choice)
+- [Chip List Choice](https://github.com/mohammedgmgn/ChipListChoice)
+- [Badges](https://pub.dev/packages/badges)
+
+#### Slider
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider)
+- [Intro Slider](https://github.com/duytq94/flutter-intro-slider)
+- [Ballon Slider](https://github.com/amirc901/FlutterBallonSlider)
+- [Range Slider](https://github.com/boeledi/RangeSlider)
+- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider)
+- [Circular Slider](https://github.com/davidanaya/flutter-circular-slider)
+- [Xlider Slider](https://github.com/Ali-Azmoud/flutter_xlider)
+- [Sleek Circular Slider](https://github.com/matthewfx/sleek_circular_slider)
+- [Slider Button](https://github.com/anirudhsharma392/Slider-Button)
+- [Simple Slider](https://github.com/eddywm/simple_slider)
+- [Reviews Slider](https://github.com/kherel/reviews_slider) - Kullanıcıdan geribildirim almak için kullanılabilen kütüphane.
+- [Slider Number Picker](https://github.com/pedromassango/slider_number_picker)
+- [Custom Slider](https://github.com/ZaraclaJ/flutter_custom_slider)
+- [Page Slider](https://github.com/julvo/flutter_page_slider)
+- [Slider Move](https://github.com/geekruchika/SliderMove)
+- [Reviews Slider](https://github.com/AubergineDevelopers/Slidermoji) - Kullanıcıdan geribildirim almak için kullanılabilen kütüphane.
+
+#### Counter
+- [Animated Counter](https://github.com/Rajchowdhury420/Flutter-Counter-App)
+- [Basic Counter](https://github.com/salmaanahmed/flutterCounter)
+- [Stepper Counter Swipe](https://github.com/burakozyurt/stepper_counter_swipe)
+
+#### Gallery
+- [Flutter Gallery](https://github.com/follow2vivek/FlutterGallery)
+- [Scroll Gallery](https://github.com/tiny-express/flutter_scroll_gallery)
+- [Media Gallery](https://github.com/aloisdeniel/media_gallery)
+- [Music Gallery](https://github.com/VictorRancesCode/musicgallery)
+
+#### Date Time Picker
+- [Date Time Picker](https://github.com/Realank/flutter_datetime_picker)
+- [Date Picker Timeline](https://github.com/iamvivekkaushik/DatePickerTimelineFlutter)
+- [Date Picker Formfield](https://github.com/jifalops/datetime_picker_formfield)
+- [Date Time Picker](https://github.com/ShivamGoyal1899/DateTimePicker)
+- [Date Time Range Picker](https://github.com/longphanmn/f-datetimerangepicker)
+- [Date Time Picker Dialog](https://github.com/theshivamlko/date_time_picker_dialog)
+- [IOS Style Date Time Picker](https://github.com/theshivamlko/flutter_date_time_picker)
+- [Time Date Picker](https://github.com/patthipati/flutter_time_date_picker)
+
+#### Calendar
+- [Table Calendar](https://github.com/aleksanderwozniak/table_calendar)
+- [Carousel Calendar](https://github.com/dooboolab/flutter_calendar_carousel)
+- [Custom Calendar](https://github.com/fluttercandies/flutter_custom_calendar)
+- [Flutter Calendar Strip](https://github.com/IronLad85/flutter_calendar_strip)
+- [Clean Calendar](https://github.com/pmcarlos/flutter_clean_calendar)
+- [Calendar UI](https://github.com/khurramrizvi/FlutterCalenderUI)
+- [Horizontal Calendar](https://github.com/solutelabs/horizontal_calendar)
+
+#### Chart
+- [FL Chart](https://github.com/imaNNeoFighT/fl_chart) - İçeriğinde çizgi grafik,bar grafik,pasta grafik gibi birçok grafiği bulunduran bir kütüphane.
+- [Bezier Chart](https://github.com/aeyrium/bezier-chart)
+- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart)
+- [MPFlutter Chart](https://github.com/SunPointed/MPFlutterChart) - Çok zengin bir grafik çeşitliliğine sahip bir kütüphane.
+- [Flutter Charts](https://github.com/mzimmerm/flutter_charts)
+- [Animated Charts](https://github.com/whatsupcoders/FlutterAnimatedCharts)
+- [Flutter Candlestick Charts](https://github.com/trentpiercy/flutter-candlesticks)
+- [Radar Chart](https://github.com/danpanaite/flutter_radar_chart)
+- [Animated Line Chart](https://github.com/JacobJust/fl_animated_linechart)
+- [ECharts](https://github.com/entronad/flutter_echarts) - Zengin bir içeriğe sahip grafik kütüphanesi.
+
+#### Progress
+- [Progress Dialog](https://github.com/fayaz07/progress_dialog)
+- [Liquid Progress Indicator](https://github.com/JordanADavies/liquid_progress_indicator)
+- [Progress Indicators](https://github.com/wal33d006/progress_indicators)
+- [Circular Progress](https://github.com/zmqgithub/circular_progress)
+- [Wave Progress](https://github.com/studioidan/wave_progress)
+- [Rounded Progress Bar](https://github.com/benznest/flutter_rounded_progress_bar)
+- [Animated Circle Progress](https://github.com/calebkiage/flutter_animated_circle_progress)
+- [Step Progress Indicator](https://github.com/SandroMaglione/step-progress-indicator)
+- [Wave Progress](https://github.com/nextfunc/circle_wave_progress)
+- [Loading Indicator](https://github.com/leonzone/loading)
+
+#### Floating Action Button
+- [Diamond Fab](https://github.com/tensor-programming/diamond_fab) - Elmas şeklinde FAB oluşturmamızı sağlayan kütüphanedir.
+- [Circular FAB Menu](https://github.com/marianocordoba/fab-circular-menu)
+- [Animated FAB](https://github.com/fysoul17/flutter_speed_dial_material_design)
+- [Flutter Star Menu](https://github.com/alnitak/flutter_star_menu)
+
+#### Pull To Refresh
+- [Pull To Refresh](https://github.com/OpenFlutter/PullToRefresh)
+- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
+- [Frefresh](https://github.com/Fliggy-Mobile/frefresh)
+
+#### Icon
+- [Font Awesome Flutter](https://github.com/fluttercommunity/font_awesome_flutter) - [fontawesome.com](https://fontawesome.com/icons?d=gallery) sitesinde bulunan tüm ikonları flutter uygulamamızda kullanmamıza olanak sağlayan kütüphane.
+- [Flutter Icons](https://github.com/flutter-studio/flutter-icons) - Çok zengin bir içeriğe sahip ikon kütüphanesi. İçeriğindeki ikonlara [şuradan](https://oblador.github.io/react-native-vector-icons/) bakabilirsiniz.
+- [Koukicons Flutter](https://github.com/Ademking/koukicons_flutter) - İçeriğinde 700'den fazla ikon bulunan bir kütüphane.
+
+#### Shapes
+- [Clippy](https://github.com/figengungor/clippy_flutter) - Birçok hazır şekli içerisinde barındıran kütüphane.
+- [Custom Clippers](https://github.com/lohanidamodar/flutter_custom_clippers)
+- [Polygon Clipper](https://github.com/leonardocaldas/flutter-polygon-clipper)
+- [Flutter Blobs](https://github.com/lokesh-coder/flutter_blobs)
+
+#### Maps
+- [Flutter Map](https://github.com/fleaflet/flutter_map) - Popüler JS kütüphanelerinden olan [Leaflet](https://github.com/Leaflet/Leaflet) 'in Dart diline implement edilmiş hali.
+- [Mapbox GL](https://github.com/tobrun/flutter-mapbox-gl)
+- [Flutter Google Map View](https://github.com/apptreesoftware/flutter_google_map_view)
+- [Google Map Location Picker](https://github.com/humazed/google_map_location_picker)
+- [Clustering Google Maps](https://github.com/giandifra/clustering_google_maps)
+- [Google Maps Example](https://github.com/whatsupcoders/Flutter-GoogleMaps) - Flutter için Google Maps örneği [Youtube](https://www.youtube.com/watch?v=lNqEfnnmoHk)
+- [Tubles](https://github.com/yusriltakeuchi/Tubles)
+
+#### Dialog
+- [Giffy Dialog](https://github.com/xsahil03x/giffy_dialog)
+- [Custom Animated Dialog](https://github.com/YYFlutter/flutter-custom-dialog)
+- [Alert Dialog](https://github.com/RatelHub/rflutter_alert)
+- [Progress Dialog](https://github.com/fayaz07/progress_dialog)
+- [Awesome Dialogs](https://github.com/marcos930807/awesomeDialogs)
+- [Rich Alert Dialogs](https://github.com/JideGuru/rich-alert-dialogs)
+- [Fancy Alert Dialog](https://github.com/DokkarRachidReda/Fancy-Flutter-Alert-Dialog)
+- [Rich Alert](https://github.com/thedejifab/rich_alert)
+- [Flutter Dialog](https://github.com/liyabin1105/flutter_dialog)
+- [Material Dialog](https://github.com/zubairehman/MaterialDialog)
+- [Smiley Rating Dialog](https://github.com/mohak1283/Smiley-Rating-Dialog)
+- [Somedialog](https://github.com/agryva/Somedialog)
+- [Rating Dialog](https://github.com/nemoryoliver/rating_dialog)
+- [Animated Dialog Box](https://github.com/Shubham-Narkhede/animated_dialog_box)
+
+#### Toast
+- [Sweet Sheet](https://github.com/CorneilleEdi/sweetsheet)
+- [Bot Toast](https://github.com/MMMzq/bot_toast)
+- [OK Toast](https://github.com/OpenFlutter/flutter_oktoast)
+- [Flash](https://github.com/sososdk/flash)
+- [Flutter Toast](https://github.com/appdev/FlutterToast)
+- [Styled Toast](https://github.com/JackJonson/flutter_styled_toast)
+- [Toast Badge](https://github.com/erluxman/toast_badge)
+
+#### Music Player
+- [Flutter Music Player](https://github.com/iampawan/Flutter-Music-Player)
+- [Grey](https://github.com/avirias/Grey)
+- [Flutter Music App](https://github.com/obnil/flutter_music_app)
+- [Music Player UI](https://github.com/devefy/Flutter-Music-Player-UI)
+- [Assets Audio Player](https://github.com/florent37/Flutter-AssetsAudioPlayer)
+- [Music Piped](https://github.com/deep-gaurav/MusicPiped)
+- [Flutter Music Player](https://github.com/thosakwe/flutter_music_player)
+- [Flute Music Player](https://github.com/iamabhishek229313/Flute-Music-Player)
+- [Audio Player Flutter](https://github.com/minikin/audio_player_flutter)
+- [UI Challenge Music Player](https://github.com/CoderJava/Flutter-UI-Challenge-Music-Player)
+
+#### Video
+- [Flutter Video Compress](https://github.com/rurico/flutter_video_compress) - Uygulama içerisinde kullanılan videoların boyutlarını küçültmemize olanak sağlayan kütüphane.
+- [Flutter Basic Video Player](https://github.com/brianegan/chewie)
+- [FIJK Player](https://github.com/befovy/fijkplayer)
+- [Flutter Video Compress](https://github.com/jonataslaw/VideoCompress) - Uygulama içerisinde kullanılan videoların boyutlarını küçültmemize olanak sağlayan kütüphane.
+- [Flutter Tiktok Video Player](https://github.com/mjl0602/flutter_tiktok)
+- [Flutter Youtube Player](https://github.com/sarbagyastha/youtube_player_flutter)
+- [Neeko Video Player](https://github.com/OpenFlutter/neeko)
+- [GPlayer](https://github.com/tcking/GPlayer)
+- [Instagram Story View](https://github.com/awaik/flutter_instagram_stories)
+
+#### Audio
+- [Audio Player](https://github.com/luanpotter/audioplayers)
+- [Flutter Audio Player](https://github.com/rxlabz/audioplayer)
+- [Flutter Audio Services](https://github.com/ryanheise/audio_service) 
+- [Assets Audio Player](https://github.com/florent37/Flutter-AssetsAudioPlayer)
+- [Just Audio](https://github.com/ryanheise/just_audio)
+- [Audio Manager](https://github.com/jeromexiong/audio_manager)
+- [Flutter Audio Recorder](https://github.com/rmbrone/flutter_audio_recorder)
+
+#### Rating Bar
+- [Smooth Rating Bar](https://github.com/thangmam/smoothratingbar)
+- [Flutter Rating Bar](https://github.com/sarbagyastha/flutter_rating_bar)
+- [Rating Bar](https://github.com/joshmatta/rating_bar)
+- [Spon Rating Bar](https://github.com/cnsponmas/spon_rating_bar)
+- [Simple Rating Bar](https://github.com/docwei2050/flutter_simple_rating_bar)
+
+#### Textfield
+- [Extended Textfield](https://github.com/fluttercandies/extended_text_field)
+- [Pin Input Textfield](https://github.com/TinoGuo/pin_input_text_field)
+- [Pin Input](https://github.com/Tkko/Flutter_PinPut)
+- [Multi Format Textfield](https://github.com/caseyryan/flutter_multi_formatter)
+- [Auto Size Textfield](https://github.com/lzhuor/auto_size_text_field)
+- [Phone Input Textfield](https://github.com/rickywen911/phone_input_text_field)
+- [Responsive Textfield](https://github.com/vikram25897/fluttter_responsive_text_field)
+- [Auto Complete Textfield](https://github.com/felixlucien/flutter-autocomplete-textfield)
+- [Beauty Textfield](https://github.com/hipoojan/BeautyTextfield)
+- [Rich Textfield](https://github.com/hyz1992/rich_textfield)
+
+#### Picker
+- [Country Picker](https://github.com/figengungor/country_pickers)
+- [Flutter Picker](https://github.com/yangyxd/flutter_picker)
+- [Flutter Pickers](https://github.com/codegrue/flutter_material_pickers)
+- [Number Picker](https://github.com/MarcinusX/NumberPicker)
+- [Color Picker](https://github.com/mchome/flutter_colorpicker)
+- [Icon Picker](https://github.com/Ahmadre/FlutterIconPicker)
+- [Country Code Picker](https://github.com/imtoori/CountryCodePicker)
+- [Material Picker](https://github.com/long1eu/material_pickers)
+- [Emoji Picker](https://github.com/JeffG05/emoji_picker)
+- [Flutter Color Picker](https://github.com/Pyozer/flutter_material_color_picker)
+- [HSV Color Picker](https://github.com/fluttercandies/flutter_hsvcolor_picker)
+- [Circle Color Picker](https://github.com/itome/flutter_circle_color_picker)
+- [GIF Picker](https://github.com/firstfloorsoftware/giphy_picker)
+
+#### Bottom Navigation
+- [Bottom Navigation Bar](https://github.com/pedromassango/bottom_navy_bar)
+- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation)
+- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation)
+- [Flip Box Bar](https://github.com/deven98/flip_box_bar)
+- [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar)
+- [Snake Bottom Navigation Bar](https://github.com/herodotdigital/SnakeBottomNavigationBar)
+- [Rolling Navigation Bar](https://github.com/craiglabenz/flutter_rolling_nav_bar)
+- [Persistent Bottom Navigation Bar](https://github.com/BilalShahid13/PersistentBottomNavBar)
+- [Spin Circle Bottom Bar](https://github.com/retroportalstudio/spincircle_bottom_bar)
+- [Animated Bottom Navigation Bar](https://github.com/LanarsInc/animated-bottom-navigation-bar-flutter)
+- [Bubble Animated Bar](https://github.com/IronLad85/bubble_animated_tabbar)
+- [Floating Bottom Navigation Bar](https://github.com/right7ctrl/flutter_floating_bottom_navigation_bar)
+- [Flutter Multi Navigator Bottom Bar](https://github.com/showang/flutter_multi_navigator_bottom_bar)
+- [Sphere Bottom Navigation Bar](https://github.com/PremRajpurohit/sphere_bottom_navigation_bar)
+
+#### TabBar
+- [Gooey Tab Bar](https://github.com/wiltonribeiro/gooey_tabbar_flutter)
+- [Nested Tab Bar](https://github.com/IAmSarthakVerma/NestedTabBar-Flutter)
+- [Motion Tab Bar](https://github.com/therezacuet/Motion-Tab-Bar)
+- [Flutter Custom Tab Bar](https://github.com/LiuC520/flutter_custom_bottom_tab_bar)
+- [Flashy Tab Bar](https://github.com/leesnhyun/flashy_tab_bar)
+- [Flutter Point Tab Bar](https://github.com/hienlh/flutter_point_tab_bar)
+
+#### Drawer
+- [Multi Level Drawer](https://github.com/retroportalstudio/multilevel_drawer)
+- [Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer)
+- [Flutter Delivery](https://github.com/pedromassango/flutter_delivery)
+- [Drawer Challenge](https://github.com/MarcinusX/drawer_challenge)
+- [KF Drawer](https://github.com/qqmikey/kf_drawer)
+- [Flutter Slider Drawer](https://github.com/NikhilVadoliya/Flutter_slider_drawer)
+- [Behavior Drawer](https://github.com/shiburagi/Drawer-Behavior-Flutter)
+- [Zoom Drawer](https://github.com/medyas/flutter_zoom_drawer)
+- [Sliding Drawer](https://github.com/umangce/sliding-nav-bar)
+- [Flutter Debug Drawer](https://github.com/sergiandreplace/flutter_debug_drawer)
+
+
 ###  <a name="acık-kaynak-kodlar"></a>Açık Kaynak Kodlar
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) - Ana widget'ı kaydırarak sonrasında belirli hareketler ile bir işlem yapmanıza yardımcı olan kütüphane - Sezgin Bilgetay
 - [Flutter Music Player](https://github.com/sbilketay/flutter_music_player) Music Player UI - Sezgin Bilgetay
