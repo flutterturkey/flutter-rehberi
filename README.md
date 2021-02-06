@@ -378,7 +378,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [ECharts](https://github.com/entronad/flutter_echarts) - Zengin bir içeriğe sahip grafik kütüphanesi.
 
 #### Progress
-- [Progress Dialog](https://github.com/fayaz07/progress_dialog)
+- [Progress Dialog](https://github.com/emreesen27/Flutter-Progress-Dialog)
 - [Liquid Progress Indicator](https://github.com/JordanADavies/liquid_progress_indicator)
 - [Progress Indicators](https://github.com/wal33d006/progress_indicators)
 - [Circular Progress](https://github.com/zmqgithub/circular_progress)
