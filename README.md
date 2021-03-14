@@ -167,6 +167,16 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ##### DSC Edirne
 - [Flutter vs React Native](https://youtu.be/BtxsOehgl_s) - Sercan Yusuf & Özge Aydın
 
+##### Developer MultiGroup
+- [Flutter Dart Temelleri](https://www.youtube.com/watch?v=EEXx6Z04wbQ&t=40s) - Salih Güler
+- [Flutter Nedir & Widgets](https://www.youtube.com/watch?v=l7bnVWjelZI) - Salih Güler
+- [Flutter async await, HTTP request](https://www.youtube.com/watch?v=EEXx6Z04wbQ&t=40s) - Adem Özcan & Göktuğ Özdemir
+- [Flutter Firebase Kurulum ve Kullanım](https://www.youtube.com/watch?v=mkYp_MXiDBY) - Göktuğ Özdemir
+- [Flutter Animations Session](https://www.youtube.com/watch?v=_ygMPTqTZrA&t=2s) - Salih Güler
+- [Flutter Animations Workshop](https://www.youtube.com/watch?v=N9LGVSmpcGQ&t=3s) - Salih Güler
+- [Flutter State Management](https://www.youtube.com/watch?v=aAvSIPLGHC4&t=3s) - Muhammet Ömer
+- [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=-fG5R_BE5p0&t=2s) - Adem Özcan Muhammet Ömer
+
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
 #### Flutter Favourites
