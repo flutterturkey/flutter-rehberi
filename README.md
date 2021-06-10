@@ -46,6 +46,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde) - Halil Özel
 - [Flutter’ın Mimarisi ve Dart’ın Flutter üzerindeki etkisi](https://medium.com/flutter-t%C3%BCrkiye/flutter%C4%B1n-mimarisi-ve-dart-%C4%B1n-flutter-%C3%BCzerindeki-etkisi-b9b652d0525) - Muhammed Salih Güler
 - [Flutter’ da pro düzeye ulaşmak için gerekli adımlar](https://medium.com/@hubders/flutter-da-pro-d%C3%BCzeye-ula%C5%9Fmak-i%C3%A7in-gerekli-ad%C4%B1mlar-faa6837a03de) - DersHub
+- [Flutter için kod örnekleri.] (https://onursahin.net/flutter/) - Onur Şahin @imonursahin
 
 #### Widgetlar
 - [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
@@ -160,7 +161,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ##### DSC Edirne
 - [Flutter vs React Native](https://youtu.be/BtxsOehgl_s) - Sercan Yusuf & Özge Aydın
 
-<!--
 ##### Developer MultiGroup
 - [Flutter Dart Temelleri](https://www.youtube.com/watch?v=Zo316rPoQlY) - Salih Güler
 - [Flutter Nedir & Widgets](https://www.youtube.com/watch?v=xVLTtN-m0kI) - Salih Güler
@@ -170,7 +170,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter Animations Workshop](https://www.youtube.com/watch?v=BXWRyhkr9fI) - Salih Güler
 - [Flutter State Management](https://www.youtube.com/watch?v=dbvbeU2jLC8) - Muhammet Ömer
 - [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=3QKqTVxRKDc) - Adem Özcan Muhammet Ömer
--->
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
