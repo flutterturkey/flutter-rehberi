@@ -162,8 +162,14 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 <!--
 ##### Developer MultiGroup
-
-TODO: Add deleted links
+- [Flutter Dart Temelleri](https://www.youtube.com/watch?v=Zo316rPoQlY) - Salih Güler
+- [Flutter Nedir & Widgets](https://www.youtube.com/watch?v=xVLTtN-m0kI) - Salih Güler
+- [Flutter async await, HTTP request](https://www.youtube.com/watch?v=etGMJe7XkYE) - Adem Özcan & Göktuğ Özdemir
+- [Flutter Firebase Kurulum ve Kullanım](https://www.youtube.com/watch?v=4Vf6_qNhpXc) - Göktuğ Özdemir
+- [Flutter Animations Session](https://www.youtube.com/watch?v=jiO8-DnSErQ) - Salih Güler
+- [Flutter Animations Workshop](https://www.youtube.com/watch?v=BXWRyhkr9fI) - Salih Güler
+- [Flutter State Management](https://www.youtube.com/watch?v=dbvbeU2jLC8) - Muhammet Ömer
+- [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=3QKqTVxRKDc) - Adem Özcan Muhammet Ömer
 -->
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
