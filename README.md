@@ -169,7 +169,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter Animations Session](https://www.youtube.com/watch?v=jiO8-DnSErQ) - Salih Güler
 - [Flutter Animations Workshop](https://www.youtube.com/watch?v=BXWRyhkr9fI) - Salih Güler
 - [Flutter State Management](https://www.youtube.com/watch?v=dbvbeU2jLC8) - Muhammet Ömer
-- [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=3QKqTVxRKDc) - Adem Özcan Muhammet Ömer
+- [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=3QKqTVxRKDc) - Adem Özcan & Muhammet Ömer
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
