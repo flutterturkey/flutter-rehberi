@@ -34,7 +34,6 @@ Flutter öğrenmeye başlayan pek çok insan nereden başlayacağını veya nas�
 Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde burada bulunabilir.
 
 #### Dart
-- [Dart Const Eğitici İçerik— Bilmeniz Gereken Her şey(Const İfadeler, Standart Örnekler ve Daha Fazlası)](https://medium.com/flutter-t%C3%BCrkiye/dart-const-e%C4%9Fitici-i%CC%87%C3%A7erik-bilmeniz-gereken-her-%C5%9Fey-const-i%CC%87fadeler-standart-%C3%B6rnekler-ve-daha-fe243f590059) - Beyza Sunay Güler'in Matt Rešetár (Reso Coder)'ın makalesinden çevirisi
 - [Dart dilinde Uzantı Metotları(Extension Methods)](https://medium.com/flutter-i%CC%87zmir/dart-dilinde-uzant%C4%B1-metotlar%C4%B1-extension-methods-912158f92fa1) - Mirkan Çalışkan
 - [Dart Programlama Dili](https://medium.com/@halilozel1903/dart-programlama-dili-eeafb64ad300) - Halil Özel
 
@@ -42,13 +41,12 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter ile Güzel Kullanıcı Arayüzü Oluşturmak](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-g%C3%BCzel-kullan%C4%B1c%C4%B1-aray%C3%BCz%C3%BC-olu%C5%9Fturmak-2b8a3c4c7b17) - Mustafa Türkmen'in Flutter codelab çevirisi
 - [Flutter Nedir ? Devrim Etkisi Oluşturur Mu?](https://medium.com/flutter-t%C3%BCrkiye/flutter-nedir-devrim-etkisi-olu%C5%9Fturur-mu-3f9c0b8bd251?source=collection_detail----f3fe55e37b59-----26-----------------------) - Yasin İlhan
 - [Flutter ile ilk uygulamanı yazmaya hazır mısın? (Part 2)](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-i%CC%87lk-uygulaman%C4%B1-yazmaya-haz%C4%B1r-m%C4%B1s%C4%B1n-part-2-ac97b0ee4baf) - Ajda Akter'in Flutter codelab çevirisi
-- [Flutter öğrenmek istiyorum, nereden başlamalıyım](https://medium.com/flutter-t%C3%BCrkiye/flutter-%C3%B6%C4%9Frenmek-i%CC%87stiyorum-nas%C4%B1l-ba%C5%9Flamal%C4%B1y%C4%B1m-650427b18cfe) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
 - [Flutter ile ilk uygulamanı yazmaya hazır mısın? (Part 1)](https://medium.com/flutter-t%C3%BCrkiye/flutter-ile-i%CC%87lk-uygulaman%C4%B1-yazmaya-haz%C4%B1r-m%C4%B1s%C4%B1n-part-1-f2833af78685) - Ajda Akter'in Flutter codelab çevirisi
 - [Flutter Nedir ?](https://medium.com/@halilozel1903/flutter-nedir-8a3cb33fdb9d) - Halil Özel
 - [Android Studio’ya Flutter Kurulumu](https://medium.com/@halilozel1903/android-studioya-flutter-kurulumu-73f7d4cefde) - Halil Özel
 - [Flutter’ın Mimarisi ve Dart’ın Flutter üzerindeki etkisi](https://medium.com/flutter-t%C3%BCrkiye/flutter%C4%B1n-mimarisi-ve-dart-%C4%B1n-flutter-%C3%BCzerindeki-etkisi-b9b652d0525) - Muhammed Salih Güler
 - [Flutter’ da pro düzeye ulaşmak için gerekli adımlar](https://medium.com/@hubders/flutter-da-pro-d%C3%BCzeye-ula%C5%9Fmak-i%C3%A7in-gerekli-ad%C4%B1mlar-faa6837a03de) - DersHub
-- [Flutter için kod örnekleri.] (onursahin.net/flutter) - Onur Şahin @imonursahin
+- [Flutter için kod örnekleri.] (https://onursahin.net/flutter/) - Onur Şahin @imonursahin
 
 #### Widgetlar
 - [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
@@ -62,8 +60,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 #### Network Bağlantıları
 - [Flutter’da Json Parçalama Ve Manipüle Etme: Kripto Para Uygulaması](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-ve-manip%C3%BCle-etme-kripto-para-uygulamas%C4%B1-3275c74785dc) - Ozan Doğan
-- [Flutter’da API’lar ile Çalışmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-api-lar-ile-%C3%A7al%C4%B1%C5%9Fmak-e28361c7890d) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
-- [Flutter’da JSON Parçalama](https://medium.com/flutter-t%C3%BCrkiye/flutterda-json-par%C3%A7alama-c35d7f7e39be) - Beyza Sunay Güler'in Pooja Baumik'in makalesinden çevirisi
 
 #### Firebase
 - [Flutter’da Algolia Kullanarak Arama Yapmak](https://medium.com/flutter-t%C3%BCrkiye/flutterda-algolia-kullanarak-arama-yapmak-fb36b05f3cc1) - Mert Toptaş
@@ -73,7 +69,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 
 #### Kütüphaneler
 - [Flutter, Login Bilgisi Tutma](https://medium.com/flutter-t%C3%BCrkiye/flutter-login-bilgisi-tutma-375bb1fa45f5) - Kadir Bekar
-- [Flutter’da WebView’ların Gücü](https://medium.com/flutter-t%C3%BCrkiye/flutterda-webview-lar%C4%B1n-g%C3%BCc%C3%BC-62a0304987e1) - Beyza Sunay Güler'in Emily Fortuna'nın makalesinden çevirisi
 - [Flutter Paketi Nasıl Oluştururum ve Yayınlarım](https://medium.com/flutter-t%C3%BCrkiye/nas%C4%B1l-flutter-package-olu%C5%9Fturulur-ve-yay%C4%B1nlar%C4%B1m-d3d0501565f2?source=collection_detail----f3fe55e37b59-----25-----------------------) - Onat Çipli
 - [Flutter’da SVG Kullanımı](https://medium.com/flutter-i%CC%87zmir/flutterda-svg-kullan%C4%B1m%C4%B1-468c8817d3c1) - Mirkan Çalışkan
 - [Flutter’da Pusher Kullanımı](https://medium.com/flutter-i%CC%87zmir/flutterda-pusher-kullan%C4%B1m%C4%B1-b216398fd63d) - Mirkan Çalışkan
@@ -89,7 +84,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Animasyonlar
 - [Flutter’da Animasyonlar: Fizik Tabanlı Animasyonlar](https://medium.com/flutter-i%CC%87zmir/flutterda-animasyonlar-fizik-tabanl%C4%B1-animasyonlar-531d39221560) - Mirkan Çalışkan
 - [Flutter’da Animasyonlar: Implicit Animation Widgets](https://medium.com/flutter-i%CC%87zmir/flutterda-animasyonlar-implicit-animation-widgets-585e7f8ef442) - Mirkan Çalışkan
-- [Flutterda Animasyonlar](https://medium.com/flutter-t%C3%BCrkiye/flutter-da-animasyonlar-ebf4b7f000bc) - Beyza Sunay Güler'in Muhammed Salih Güler'in makalesinden çevirisi
 
 #### Mimari
 - [Flutter Uygulama Mimarisi: BLoC](https://medium.com/flutter-i%CC%87zmir/flutter-uygulama-mimarisi-bloc-c8ca9f43662) - Mirkan Çalışkan
@@ -102,7 +96,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter Channel ile iOS ve Android Kodu Çağırmak + Native SocketIO Client Framework İle Kullanımı](https://medium.com/flutter-t%C3%BCrkiye/flutter-channel-ile-ios-ve-android-kodu-%C3%A7a%C4%9F%C4%B1rmak-native-socketio-client-framework-i%CC%87le-kullan%C4%B1m%C4%B1-e9c1d6a1e408) - Gökhan Alp
 
 #### Web
-- [Flutter Web’in In ve Outları](https://medium.com/flutter-t%C3%BCrkiye/flutter-webin-in-ve-outlar%C4%B1-b2f4531fc8fe) - Beyza Sunay Güler'in Nash Ramdial'ın makalesinden çevirisi
 - [Flutter Web uygulamasını Peanut ile Github Pages’e Dağıtma](https://medium.com/flutter-t%C3%BCrkiye/flutter-web-uygulamas%C4%B1n%C4%B1-peanut-ile-github-pagese-da%C4%9F%C4%B1tma-ac16313e0320?source=collection_detail----f3fe55e37b59-----28-----------------------) - Mirkan Çalışkan
 
 #### Anonslar
@@ -169,14 +162,14 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter vs React Native](https://youtu.be/BtxsOehgl_s) - Sercan Yusuf & Özge Aydın
 
 ##### Developer MultiGroup
-- [Flutter Dart Temelleri](https://www.youtube.com/watch?v=EEXx6Z04wbQ&t=40s) - Salih Güler
-- [Flutter Nedir & Widgets](https://www.youtube.com/watch?v=l7bnVWjelZI) - Salih Güler
-- [Flutter async await, HTTP request](https://www.youtube.com/watch?v=EEXx6Z04wbQ&t=40s) - Adem Özcan & Göktuğ Özdemir
-- [Flutter Firebase Kurulum ve Kullanım](https://www.youtube.com/watch?v=mkYp_MXiDBY) - Göktuğ Özdemir
-- [Flutter Animations Session](https://www.youtube.com/watch?v=_ygMPTqTZrA&t=2s) - Salih Güler
-- [Flutter Animations Workshop](https://www.youtube.com/watch?v=N9LGVSmpcGQ&t=3s) - Salih Güler
-- [Flutter State Management](https://www.youtube.com/watch?v=aAvSIPLGHC4&t=3s) - Muhammet Ömer
-- [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=-fG5R_BE5p0&t=2s) - Adem Özcan Muhammet Ömer
+- [Flutter Dart Temelleri](https://www.youtube.com/watch?v=Zo316rPoQlY) - Salih Güler
+- [Flutter Nedir & Widgets](https://www.youtube.com/watch?v=xVLTtN-m0kI) - Salih Güler
+- [Flutter async await, HTTP request](https://www.youtube.com/watch?v=etGMJe7XkYE) - Adem Özcan & Göktuğ Özdemir
+- [Flutter Firebase Kurulum ve Kullanım](https://www.youtube.com/watch?v=4Vf6_qNhpXc) - Göktuğ Özdemir
+- [Flutter Animations Session](https://www.youtube.com/watch?v=jiO8-DnSErQ) - Salih Güler
+- [Flutter Animations Workshop](https://www.youtube.com/watch?v=BXWRyhkr9fI) - Salih Güler
+- [Flutter State Management](https://www.youtube.com/watch?v=dbvbeU2jLC8) - Muhammet Ömer
+- [Flutter Örnek Proje Yapımı](https://www.youtube.com/watch?v=3QKqTVxRKDc) - Adem Özcan Muhammet Ömer
 
 ###  <a name="kutuphaneler"></a>Kütüphaneler
 
@@ -232,7 +225,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Animated Button](https://github.com/Norbert515/pimp_my_button) 
 - [Progress Button](https://github.com/halilozercan/ProgressButton)
 - [Like Button](https://github.com/fluttercandies/like_button)
-- [Auth Buttons](https://github.com/dmjones/flutter_auth_buttons)
+- [Auth Buttons](https://github.com/dmjones/flutter_auth_buttons) (Arşivlendi)
 - [Sign In Buttons](https://github.com/ZaynJarvis/Flutter-Sign-in-Button)
 - [Progress Button](https://github.com/IhorKlimov/FlutterProgressButton)
 - [F Button](https://github.com/Fliggy-Mobile/fbutton) - Her türlü butonu oluşturmanıza olanak sağlayan zengin bir buton kütüphanesidir.
@@ -264,7 +257,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Image
 - [Before After Image](https://github.com/salihgueler/flutter_before_after_image) 
 - [Photo View](https://github.com/renancaraujo/photo_view)
-- [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker)
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper)
 - [Before After Image](https://github.com/xsahil03x/before_after)
 - [Image Compress](https://github.com/OpenFlutter/flutter_image_compress) - Uygulama içerisinde kullanılan resimlerin boyutlarını küçültmemize olanak sağlayan kütüphane.
@@ -425,7 +417,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Maps
 - [Flutter Map](https://github.com/fleaflet/flutter_map) - Popüler JS kütüphanelerinden olan [Leaflet](https://github.com/Leaflet/Leaflet) 'in Dart diline implement edilmiş hali.
 - [Mapbox GL](https://github.com/tobrun/flutter-mapbox-gl)
-- [Flutter Google Map View](https://github.com/apptreesoftware/flutter_google_map_view)
+- [Flutter Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) (Arşivlendi)
 - [Google Map Location Picker](https://github.com/humazed/google_map_location_picker)
 - [Clustering Google Maps](https://github.com/giandifra/clustering_google_maps)
 - [Google Maps Example](https://github.com/whatsupcoders/Flutter-GoogleMaps) - Flutter için Google Maps örneği [Youtube](https://www.youtube.com/watch?v=lNqEfnnmoHk)
@@ -435,9 +427,9 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Giffy Dialog](https://github.com/xsahil03x/giffy_dialog)
 - [Custom Animated Dialog](https://github.com/YYFlutter/flutter-custom-dialog)
 - [Alert Dialog](https://github.com/RatelHub/rflutter_alert)
-- [Progress Dialog](https://github.com/fayaz07/progress_dialog)
+- [Progress Dialog](https://github.com/fayaz07/progress_dialog) (Arşivlendi)
 - [Awesome Dialogs](https://github.com/marcos930807/awesomeDialogs)
-- [Rich Alert Dialogs](https://github.com/JideGuru/rich-alert-dialogs)
+- [Rich Alert Dialogs](https://github.com/JideGuru/rich-alert-dialogs) (Arşivlendi)
 - [Fancy Alert Dialog](https://github.com/DokkarRachidReda/Fancy-Flutter-Alert-Dialog)
 - [Rich Alert](https://github.com/thedejifab/rich_alert)
 - [Flutter Dialog](https://github.com/liyabin1105/flutter_dialog)
