@@ -158,8 +158,12 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ##### Devnot
 - [React Native vs. Flutter](https://youtu.be/uOiM_LEGnKI) - Veli Bacık & Zafer Ayan
 
-##### DSC Edirne
+##### GDSC Edirne
 - [Flutter vs React Native](https://youtu.be/BtxsOehgl_s) - Sercan Yusuf & Özge Aydın
+- [Indie App Development with Flutter & Firebase](https://www.youtube.com/watch?v=uTw8R3VzY1Y&t=15s) - Rutkay Bıyık
+- [Bir Widget'ın Yaşam Döngüsü](https://www.youtube.com/watch?v=xXWgywwp4Ow&t=20s) - Levent Kantaroğlu
+- [Flutter İçin Alternatif Veri Depolama Yöntemi Olarak Hive Database](https://www.youtube.com/watch?v=_XYFPzJs6Bk) - Mehmet Ali Bayram
+- [Flutter'da Harici API Kullanımı](https://www.youtube.com/watch?v=rycQ9IiRayc) - Buğra Göksu
 
 ##### Developer MultiGroup
 - [Flutter Dart Temelleri](https://www.youtube.com/watch?v=Zo316rPoQlY) - Salih Güler
