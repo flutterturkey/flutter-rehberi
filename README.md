@@ -30,6 +30,29 @@ Flutter öğrenmeye başlayan pek çok insan nereden başlayacağını veya nas�
 ![Yol Haritası](/images/flutter_roadmap.png)
 
 
+###  <a name="sosyal-aglar"></a>Sosyal Ağlar
+Sosyal medya hesaplarımızı takip ederek bize ulaşabilir ve gelişmelerden haberdar olabilirsiniz.
+<p align="center">
+  <a href="https://twitter.com/flutter_turkiye" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/c/FlutterT%C3%BCrkiye" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"   alt="Youtube" />
+  </a> 
+  <a href="https://discord.com/invite/bkSkTzw" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"   alt="Discord" />
+  </a>
+  <a href="https://medium.com/flutter-t%C3%BCrkiye" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  alt="Medium" />
+  </a>
+  <a href="https://bit.ly/flutterTR" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  </a>
+  <a href="https://t.me/FlutterTR" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a> 
+ </p>
+
 ### <a name="turkce-makaleler"></a>Türkçe Makaleler 🇹🇷 📝
 Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde burada bulunabilir.
 
@@ -569,11 +592,6 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter Astrology App UI](https://github.com/right7ctrl/flutter_astrology_app) Astrology App UI - Murat Aslan
 - [Node.js & MongoDb ile kendi back-end servisimizi yazalım (To Do App)](https://github.com/daydreamer54/flutter-nodejs-mongodb) - Kadir BEKAR
 
-###  <a name="sosyal-aglar"></a>Sosyal Ağlar
-- 🐦 [Flutter Türkiye](https://twitter.com/flutter_turkiye)
-- 🐦 [Flutter İzmir](https://twitter.com/FlutterIzmir)
-
-
 ## İngilizce Kaynak Başlıkları
 - [Makaleler](#ingilizce-makaleler)
 - [Videolar](#ingilizce-videolar)
@@ -633,4 +651,4 @@ Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde bu
 ## TODO
 - [x] Roadmap eklenecek
 - [x] İngilizce kaynak eklenecek
-- [ ] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
+- [x] Youtube, Facebook vs. gibi sosyal ağ sayfaları eklenecek
