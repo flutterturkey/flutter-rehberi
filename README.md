@@ -115,6 +115,9 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Dart'a Giris - 1 - Dart Nedir? Dart Temel Prensipleri ve Dartpad Kullanimi](https://www.youtube.com/watch?v=iiPNI8Cs-0k) - Muhammed Salih Güler.
 - [Flutter Eğitim Serisi](https://www.youtube.com/watch?v=j6awMoInvmI&list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK) - Kesali Tech
 
+#### Flutter
+- [Temelden Zirveye Flutter (27+ Saat) (Oynatma Listesi)](https://www.youtube.com/playlist?list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l) - Veli Bacık
+
 #### Flutter'ı devam eden uygulamaya eklemek
 - [Flutter'i devam eden projenize nasil ekleyebilirsiniz? Muhammed Salih Guler - Devfest Ankara](https://www.youtube.com/watch?v=01OnLugvrMc) - Muhammed Salih Güler.
 
