@@ -88,6 +88,10 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 #### Mimari
 - [Flutter Uygulama Mimarisi: BLoC](https://medium.com/flutter-i%CC%87zmir/flutter-uygulama-mimarisi-bloc-c8ca9f43662) - Mirkan Çalışkan
 - [Flutter: Clean Code](https://medium.com/flutter-t%C3%BCrkiye/flutter-clean-code-c52ff8759c0e) - Muhammet Ömer
+- [Design Pattern & MVVM İle Yukarılara Uçuş — Part 1](https://medium.com/flutter-students-club/design-pattern-mvvm-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-1-338e68cc1040) - Samet Çilingir
+- [Dependency Injection & GetIt İle Yukarılara Uçuş — Part 2](https://medium.com/flutter-students-club/dependency-injection-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-2-e12fdb90907b) - Samet Çilingir
+- [State Management & MobX İle Yukarılara Uçuş — Part 3](https://medium.com/flutter-students-club/state-management-mobx-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-3-662374a0db27) - Samet Çilingir
+- [MVVM & MobX & GetIt İle Yukarılara Uçuş — Part 4](https://medium.com/flutter-students-club/mvvm-mobx-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-4-eb9e74bfbad9) - Samet Çilingir
 
 #### Tema
 - [Flutter’da Dinamik Tema](https://medium.com/flutter-t%C3%BCrkiye/flutterda-dinamik-tema-d3fc8e2ecbe1) - Ali Anıl Koçak
@@ -602,6 +606,7 @@ Flutter ile ilgili İngilizce makaleler kategorilerine göre ayrılmış halde b
 
 #### Mimari
 - [Everything is a Widget, but don’t put everything in one Widget!](https://medium.com/@lets4r/everything-is-a-widget-but-dont-put-everything-in-a-widget-32f89b5c8bdb) - Romain Rastel
+- [Flying High With Design Pattern & Dependency Injection & State Management](https://medium.com/flutter-community/flying-high-with-design-pattern-dependency-injection-state-management-f001f584512f) - Samet Çilingir
 
 ### <a name="ingilizce-videolar"></a>İngilizce Videolar ENG 📝
 Flutter ile ilgili İngilizce videolar kategorilerine göre ayrılmış halde burada bulunabilir.
