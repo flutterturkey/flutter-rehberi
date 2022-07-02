@@ -112,11 +112,15 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 ### <a name="turkce-videolar"></a>Türkçe Videolar 🇹🇷 🎥
 
 #### Dart
+- [Baştan Sona Dart Programlama Dili (7+ saat)](https://www.youtube.com/watch?v=H6NJHb5BJyE) - Veli Bacık
 - [Dart'a Giris - 4 - Siniflar (Classes) ve Mixin'ler](https://www.youtube.com/watch?v=r47SmlFzMD4) - Muhammed Salih Güler.
 - [Dart'a Giris - 3 - Fonksiyonlar, if/else ve switch-case, Döngüler](https://www.youtube.com/watch?v=YFbYJstBHT8) - Muhammed Salih Güler.
 - [Dart'a Giris - 2 - var, final, const ve Dart Veri Tipler](https://www.youtube.com/watch?v=Nf857FM309w) - Muhammed Salih Güler.
 - [Dart'a Giris - 1 - Dart Nedir? Dart Temel Prensipleri ve Dartpad Kullanimi](https://www.youtube.com/watch?v=iiPNI8Cs-0k) - Muhammed Salih Güler.
 - [Flutter Eğitim Serisi](https://www.youtube.com/watch?v=j6awMoInvmI&list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK) - Kesali Tech
+
+#### Flutter
+- [Temelden Zirveye Flutter (27+ Saat) (Oynatma Listesi)](https://www.youtube.com/playlist?list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l) - Veli Bacık
 
 #### Flutter'ı devam eden uygulamaya eklemek
 - [Flutter'i devam eden projenize nasil ekleyebilirsiniz? Muhammed Salih Guler - Devfest Ankara](https://www.youtube.com/watch?v=01OnLugvrMc) - Muhammed Salih Güler.
