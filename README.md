@@ -70,6 +70,7 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Flutter’ın Mimarisi ve Dart’ın Flutter üzerindeki etkisi](https://medium.com/flutter-t%C3%BCrkiye/flutter%C4%B1n-mimarisi-ve-dart-%C4%B1n-flutter-%C3%BCzerindeki-etkisi-b9b652d0525) - Muhammed Salih Güler
 - [Flutter’ da pro düzeye ulaşmak için gerekli adımlar](https://medium.com/@hubders/flutter-da-pro-d%C3%BCzeye-ula%C5%9Fmak-i%C3%A7in-gerekli-ad%C4%B1mlar-faa6837a03de) - DersHub
 - [Flutter için kod örnekleri.] (https://onursahin.net/flutter/) - Onur Şahin @imonursahin
+- [Flutter öğrenmeye başlamadan önce hangi ön bilgiler gerekir ve ne hazırlamalısınız?](https://www.opendart.com/makaledetay_flutter-ogrenmeye-baslamadan-once-hangi-on-bilgiler-gerekir-ve-ne-hazirlamalisiniz-278-2774.aspx) - İbrahim Gökyar (Opendart Akademi)
 
 #### Widgetlar
 - [Flutter: UI Login Screen Challenge](https://medium.com/flutter-t%C3%BCrkiye/flutter-ui-login-screen-challenge-af6df0356300) - Muhammet Ömer
@@ -115,6 +116,8 @@ Flutter ile ilgili Türkçe makaleler kategorilerine göre ayrılmış halde bur
 - [Dependency Injection & GetIt İle Yukarılara Uçuş — Part 2](https://medium.com/flutter-students-club/dependency-injection-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-2-e12fdb90907b) - Samet Çilingir
 - [State Management & MobX İle Yukarılara Uçuş — Part 3](https://medium.com/flutter-students-club/state-management-mobx-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-3-662374a0db27) - Samet Çilingir
 - [MVVM & MobX & GetIt İle Yukarılara Uçuş — Part 4](https://medium.com/flutter-students-club/mvvm-mobx-getit-i%CC%87le-yukar%C4%B1lara-u%C3%A7u%C5%9F-part-4-eb9e74bfbad9) - Samet Çilingir
+- [Flutter state management: Granüler rebuild stratejileri ve profil rehberi](https://www.opendart.com/makaledetay_flutter-state-management-granuler-rebuild-stratejileri-ve-profil-rehberi-278-2618.aspx) - İbrahim Gökyar (Opendart Akademi)
+
 
 #### Tema
 - [Flutter’da Dinamik Tema](https://medium.com/flutter-t%C3%BCrkiye/flutterda-dinamik-tema-d3fc8e2ecbe1) - Ali Anıl Koçak
